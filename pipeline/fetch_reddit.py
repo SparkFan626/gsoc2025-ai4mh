@@ -1,0 +1,75 @@
+# pipeline/fetch_reddit.py
+
+import os
+import praw
+import pandas as pd
+import re
+import emoji
+import nltk
+from nltk.corpus import stopwords
+from dotenv import load_dotenv
+
+nltk.download('stopwords')
+stop_words = set(stopwords.words('english'))
+
+# ========== Load credentials ==========
+load_dotenv()
+
+reddit = praw.Reddit(
+    client_id=os.getenv("REDDIT_CLIENT_ID"),
+    client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
+    user_agent=os.getenv("REDDIT_USER_AGENT"),
+    username=os.getenv("REDDIT_USERNAME"),
+    password=os.getenv("REDDIT_PASSWORD")
+)
+
+# ========== Define keywords and subreddits ==========
+keywords = [
+    "depressed", "suicidal", "addiction help", "mental breakdown", "self harm",
+    "overwhelmed", "relapse", "panic attack", "feel hopeless", "i want to die",
+    "lost will", "crying all night", "emotional numbness", "can't go on", "need therapy"
+]
+
+subreddits = [
+    "depression", "SuicideWatch", "mentalhealth", "Anxiety", "addiction", "offmychest",
+    "sad", "mentalillness", "PTSD", "BPD", "depersonalization", "lonely", "grief", "socialanxiety"
+]
+
+# ========== Preprocessing function ==========
+def clean_text(text):
+    text = text.lower()
+    text = emoji.replace_emoji(text, replace="")
+    text = re.sub(r'[^\w\s]', '', text)
+    text = ' '.join(word for word in text.split() if word not in stop_words)
+    return text
+
+# ========== Main function ==========
+def main():
+    posts = []
+
+    for sub in subreddits:
+        print(f"📥 Fetching from r/{sub}...")
+        try:
+            for post in reddit.subreddit(sub).hot(limit=100):
+                content = (post.title or "") + " " + (post.selftext or "")
+                if any(kw in content.lower() for kw in keywords):
+                    cleaned = clean_text(content)
+                    posts.append({
+                        "id": post.id,
+                        "timestamp": post.created_utc,
+                        "subreddit": sub,
+                        "cleaned_text": cleaned,
+                        "upvotes": post.score,
+                        "comments": post.num_comments,
+                        "url": post.url
+                    })
+        except Exception as e:
+            print(f"⚠️ Error with r/{sub}: {e}")
+
+    df = pd.DataFrame(posts)
+    os.makedirs("output", exist_ok=True)
+    df.to_csv("output/task1_filtered_reddit_posts.csv", index=False)
+    print(f"✅ Saved {len(df)} posts to output/task1_filtered_reddit_posts.csv")
+
+if __name__ == "__main__":
+    main()
