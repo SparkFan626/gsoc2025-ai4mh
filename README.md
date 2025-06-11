@@ -17,7 +17,7 @@ By combining natural language processing (NLP), behavioral pattern recognition, 
 
 - **Mentor**: [Dr. David White](mailto:dmwhite@ua.edu)
 - **Contributors**:  
-  - [Yixing Fan (SparkFan626)](https://github.com/SparkFan626)  
+  - [Yixing Fan](https://github.com/SparkFan626)  
   - [Vishnu Sankhyan](https://github.com/Vishnusankhyan13)  
 
 ---

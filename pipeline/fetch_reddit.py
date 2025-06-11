@@ -16,23 +16,32 @@ stop_words = set(stopwords.words('english'))
 load_dotenv()
 
 reddit = praw.Reddit(
-    client_id=os.getenv("REDDIT_CLIENT_ID"),
-    client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
-    user_agent=os.getenv("REDDIT_USER_AGENT"),
-    username=os.getenv("REDDIT_USERNAME"),
-    password=os.getenv("REDDIT_PASSWORD")
+    client_id="Jq83J5TQgHoimVlkups27g",
+    client_secret="BzbcjdBB3qKn39p3Ddyf89ArHlJGvQ",
+    user_agent="gsoc_distress_bot by /u/Spark_Fan",
+    username="Spark_Fan",
+    password="1ElOOPrD"
 )
 
 # ========== Define keywords and subreddits ==========
 keywords = [
     "depressed", "suicidal", "addiction help", "mental breakdown", "self harm",
     "overwhelmed", "relapse", "panic attack", "feel hopeless", "i want to die",
-    "lost will", "crying all night", "emotional numbness", "can't go on", "need therapy"
+    "lost will", "crying all night", "emotional numbness", "can't go on", "need therapy",
+    "anxiety attack", "feeling empty", "burnout", "mental exhaustion", "can't sleep",
+    "constant worry", "feeling worthless", "no motivation", "social isolation", "panic disorder",
+    "intrusive thoughts", "emotional pain", "mental fog", "dissociation", "feeling trapped",
+    "racing thoughts", "mood swings", "emotional breakdown", "mental health crisis", "therapy needed"
 ]
 
 subreddits = [
     "depression", "SuicideWatch", "mentalhealth", "Anxiety", "addiction", "offmychest",
-    "sad", "mentalillness", "PTSD", "BPD", "depersonalization", "lonely", "grief", "socialanxiety"
+    "sad", "mentalillness", "PTSD", "BPD", "depersonalization", "lonely", "grief", "socialanxiety",
+    "mentalhealthsupport", "CPTSD", "OCD", "ADHD", "AnxietyDepression", "mentalhealthrecovery",
+    "mentalhealthawareness", "bipolar", "traumatoolbox", "mentalhealthmemes", "mentalhealthart",
+    "mentalhealthvideos", "mentalhealthresources", "mentalhealthadvice", "mentalhealthstories",
+    "mentalhealthsupport", "mentalhealthchat", "mentalhealthhelp", "mentalhealthcommunity",
+    "mentalhealthmatters", "mentalhealthwarriors"
 ]
 
 # ========== Preprocessing function ==========
@@ -68,8 +77,8 @@ def main():
 
     df = pd.DataFrame(posts)
     os.makedirs("output", exist_ok=True)
-    df.to_csv("output/task1_filtered_reddit_posts.csv", index=False)
-    print(f"✅ Saved {len(df)} posts to output/task1_filtered_reddit_posts.csv")
+    df.to_csv("output/filtered_reddit_posts.csv", index=False)
+    print(f"✅ Saved {len(df)} posts to output/filtered_reddit_posts.csv")
 
 if __name__ == "__main__":
     main()
