@@ -15,12 +15,13 @@ stop_words = set(stopwords.words('english'))
 # ========== Load credentials ==========
 load_dotenv()
 
+
 reddit = praw.Reddit(
-    client_id="Jq83J5TQgHoimVlkups27g",
-    client_secret="BzbcjdBB3qKn39p3Ddyf89ArHlJGvQ",
-    user_agent="gsoc_distress_bot by /u/Spark_Fan",
-    username="Spark_Fan",
-    password="1ElOOPrD"
+    client_id=os.getenv("REDDIT_CLIENT_ID"),
+    client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
+    user_agent=os.getenv("REDDIT_USER_AGENT"),
+    username=os.getenv("REDDIT_USERNAME"),
+    password=os.getenv("REDDIT_PASSWORD")
 )
 
 # ========== Define keywords and subreddits ==========
