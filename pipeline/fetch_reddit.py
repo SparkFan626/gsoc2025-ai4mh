@@ -15,7 +15,6 @@ stop_words = set(stopwords.words('english'))
 # ========== Load credentials ==========
 load_dotenv()
 
-
 reddit = praw.Reddit(
     client_id=os.getenv("REDDIT_CLIENT_ID"),
     client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
@@ -41,15 +40,13 @@ subreddits = [
     "mentalhealthsupport", "CPTSD", "OCD", "ADHD", "AnxietyDepression", "mentalhealthrecovery",
     "mentalhealthawareness", "bipolar", "traumatoolbox", "mentalhealthmemes", "mentalhealthart",
     "mentalhealthvideos", "mentalhealthresources", "mentalhealthadvice", "mentalhealthstories",
-    "mentalhealthsupport", "mentalhealthchat", "mentalhealthhelp", "mentalhealthcommunity",
+    "mentalhealthchat", "mentalhealthhelp", "mentalhealthcommunity",
     "mentalhealthmatters", "mentalhealthwarriors"
 ]
 
 # ========== Preprocessing function ==========
 def clean_text(text):
     text = text.lower()
-    text = emoji.replace_emoji(text, replace="")
-    text = re.sub(r'[^\w\s]', '', text)
     text = ' '.join(word for word in text.split() if word not in stop_words)
     return text
 
@@ -61,14 +58,14 @@ def main():
         print(f"📥 Fetching from r/{sub}...")
         try:
             for post in reddit.subreddit(sub).hot(limit=100):
-                content = (post.title or "") + " " + (post.selftext or "")
-                if any(kw in content.lower() for kw in keywords):
-                    cleaned = clean_text(content)
+                raw_text = (post.title or "") + " " + (post.selftext or "")
+                if any(kw in raw_text.lower() for kw in keywords):
                     posts.append({
                         "id": post.id,
                         "timestamp": post.created_utc,
                         "subreddit": sub,
-                        "cleaned_text": cleaned,
+                        "raw_text": raw_text,
+                        "cleaned_text": clean_text(raw_text),
                         "upvotes": post.score,
                         "comments": post.num_comments,
                         "url": post.url

@@ -1,10 +1,8 @@
 import pandas as pd
-import re
 import nltk
-import emoji
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-# 📦 Download VADER model (if network restricted, download manually)
+# 📦 Download VADER model if not already downloaded
 try:
     nltk.data.find("sentiment/vader_lexicon.zip")
 except LookupError:
@@ -59,19 +57,7 @@ def classify_risk(text):
 
 df['risk_level'] = df[text_col].astype(str).apply(classify_risk)
 
-# Step 4: Auxiliary features – emoji count, punctuation intensity
-def count_emojis(text):
-    """Count number of emojis in text."""
-    return sum(1 for char in text if char in emoji.EMOJI_DATA)
-
-def punctuation_intensity(text):
-    """Count repeated punctuation like '!!!', '???', or '...'."""
-    return len(re.findall(r'(!{2,}|\?{2,}|\.{3,})', text))
-
-df['emoji_score'] = df[text_col].astype(str).apply(count_emojis)
-df['punctuation_intensity'] = df[text_col].astype(str).apply(punctuation_intensity)
-
-# Step 5: Export results
+# Step 4: Export results
 output_path = "output/sentiment_risk_classified.csv"
 df.to_csv(output_path, index=False)
 print(f"✅ Classification complete. File saved to: {output_path}")
