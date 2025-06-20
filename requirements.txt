@@ -6,11 +6,12 @@ emoji==2.14.1
 idna==3.10
 joblib==1.5.1
 matplotlib==3.8.4
-nltk==3.9.1
+nltk==3.8.1
 numpy==2.2.6
 pandas==2.3.0
 praw==7.8.1
 prawcore==2.4.0
+pytrends==4.9.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.2
