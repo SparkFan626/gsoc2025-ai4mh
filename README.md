@@ -57,3 +57,17 @@ This project will use the MIT License unless otherwise specified.
 
 ## 🙌 Acknowledgments
 This project is part of Google Summer of Code 2025 under the HumanAI organization.
+
+
+---
+## 📚 Dataset Attribution
+
+This project uses the following publicly available dataset:
+
+**Suicidal Ideation Detection Reddit Dataset**  
+Mafi, Md Mafiul Hasan Matin; Alam, Md. Sabbir (2023),  
+“Suicidal Ideation Detection Reddit Dataset”,  
+Mendeley Data, V2, https://doi.org/10.17632/z8s6w86tr3.2  
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+The dataset is used for research purposes only and is not redistributed for commercial use. All rights belong to the original authors.
