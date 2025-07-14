@@ -197,3 +197,24 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+
+# ignore checkpoint
+results/checkpoint-*/
+
+# ignore optimizer and scheduler state files
+*.pt
+*.pth
+
+# ignore virtual environment and environment variables
+venv*/
+.env
+
+# ignore cache and temporary files
+__pycache__/
+*.log
+*.tmp
+
+# ignore safetensors
+*.safetensors
