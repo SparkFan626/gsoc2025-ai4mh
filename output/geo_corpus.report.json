@@ -1,0 +1,17 @@
+{
+  "rows": 17325,
+  "sources_counts": {
+    "reddit_v2": 15357,
+    "twitter_ds": 1775,
+    "reddit_sentiment": 193
+  },
+  "path": "output\\geo_corpus.csv",
+  "params": {
+    "reddit": "dataset/Suicidal Ideation Detection Reddit Dataset-Version 2.csv",
+    "twitter": "dataset/Suicide_Ideation_Dataset(Twitter-based).csv",
+    "sent": "output/bert_sentiment_result.csv",
+    "merge_title_post": true,
+    "min_len": 5,
+    "max_len": 5000
+  }
+}

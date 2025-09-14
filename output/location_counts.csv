@@ -1,0 +1,3289 @@
+entity,label,count
+Reddit,GPE,233
+n’t,GPE,140
+US,GPE,94
+America,GPE,62
+BPD,ORG,55
+TW,ORG,46
+Amazon,ORG,42
+GPA,ORG,38
+YouTube,ORG,37
+UK,GPE,36
+Europe,LOC,35
+TikTok,ORG,34
+Earth,LOC,33
+Instagram,ORG,33
+India,GPE,33
+Japan,GPE,33
+NEVER,ORG,31
+USA,GPE,31
+AI,GPE,30
+Google,ORG,27
+ER,ORG,27
+Canada,GPE,27
+SA,ORG,25
+LOL,ORG,24
+WOW,ORG,24
+Walmart,ORG,24
+LOT,ORG,22
+California,GPE,21
+Mexico,GPE,21
+Netflix,GPE,20
+Spotify,GPE,20
+Germany,GPE,19
+kinda,GPE,19
+NSFW,ORG,19
+DM,ORG,19
+ICU,ORG,18
+Starbucks,ORG,18
+un,ORG,18
+ER,GPE,18
+Florida,GPE,17
+Tylenol,ORG,16
+meth,GPE,16
+Australia,GPE,16
+Amanda,ORG,15
+ED,ORG,15
+doc,ORG,15
+McDonald’s,ORG,14
+GP,ORG,14
+IG,ORG,14
+I‘m,ORG,14
+LOVE,ORG,14
+DoorDash,ORG,13
+ETA,ORG,13
+AI,ORG,13
+SI,ORG,12
+Italy,GPE,12
+I.,ORG,12
+Disney,ORG,12
+U.S.,GPE,12
+New York,GPE,12
+NYC,LOC,12
+phobia,GPE,12
+GED,ORG,12
+ALWAYS,ORG,11
+IDK,ORG,11
+Benadryl,ORG,11
+ECT,ORG,11
+England,GPE,11
+Target,ORG,10
+BMI,ORG,10
+P.S.,GPE,10
+House,ORG,10
+Chicago,GPE,10
+CBT,ORG,10
+HS,ORG,10
+Shit,ORG,10
+TLDR,ORG,10
+Texas,GPE,10
+Sri Lanka,GPE,10
+🙏,ORG,10
+France,GPE,10
+Costco,ORG,9
+Colorado,GPE,9
+Duolingo,LOC,9
+Egypt,GPE,9
+Xanax,ORG,9
+Kinda,GPE,9
+University,ORG,9
+SAT,ORG,9
+VA,GPE,9
+iPad,ORG,8
+IP,ORG,8
+McDonald's,ORG,8
+Idk,GPE,8
+anesthesia,GPE,8
+WFH,ORG,8
+IRL,ORG,8
+Friends,ORG,8
+TIL,ORG,8
+Time,ORG,8
+PS,ORG,8
+MDD,ORG,7
+Everytime,ORG,7
+😔,ORG,7
+CT,ORG,7
+Las Vegas,GPE,7
+CPTSD,ORG,7
+CPS,ORG,7
+the United States,GPE,7
+GTA,ORG,7
+Viola,ORG,7
+RT,GPE,7
+BA,ORG,7
+Whole Foods,ORG,7
+WhatsApp,ORG,7
+Philippines,GPE,7
+NYE,ORG,7
+Norway,GPE,7
+Oregon,GPE,7
+NYC,ORG,7
+Boston,GPE,7
+NEED,ORG,7
+Santa,GPE,7
+Apple,ORG,7
+Asia,LOC,7
+AP,ORG,7
+Turkey,GPE,7
+Engineer,ORG,6
+♡,ORG,6
+London,GPE,6
+M23,GPE,6
+Broadway,FAC,6
+MH,ORG,6
+BS,ORG,6
+Michigan,GPE,6
+Nectarine,ORG,6
+fed,ORG,6
+D&D,ORG,6
+AGAIN,ORG,6
+Syria,GPE,6
+EMDR,ORG,6
+💔,ORG,6
+EMT,ORG,6
+McDonalds,FAC,6
+ASAP,ORG,6
+Tennessee,GPE,6
+LEGO,ORG,6
+LA,GPE,6
+YT,ORG,6
+Pakistan,GPE,6
+😃,ORG,6
+Toronto,GPE,6
+america,GPE,6
+Spotify,ORG,6
+Spain,GPE,6
+Iran,GPE,6
+Portland,GPE,6
+KFC,ORG,6
+CSA,ORG,6
+China,GPE,6
+Ireland,GPE,6
+DIT,ORG,5
+OT,ORG,5
+FIFA,ORG,5
+Etsy,ORG,5
+Truth,GPE,5
+*Orange Surfboard,ORG,5
+us,GPE,5
+Alaska,GPE,5
+ATM,ORG,5
+BAD,ORG,5
+Ramen,GPE,5
+Ladybugs,ORG,5
+germany,GPE,5
+Bachelor,ORG,5
+Utah,GPE,5
+Los Angeles,GPE,5
+BRAIN,ORG,5
+Midwest,LOC,5
+NA,ORG,5
+GAD,ORG,5
+USB,ORG,5
+Toyota,ORG,5
+KMS,ORG,5
+Corona,GPE,5
+Jupiter,LOC,5
+WAY,ORG,5
+japan,GPE,5
+Taco Bell,ORG,5
+TX,ORG,5
+STEM,ORG,5
+Seattle,GPE,5
+A&E,ORG,5
+DBT,ORG,5
+Home Depot,ORG,5
+Sweden,GPE,5
+Discord,ORG,5
+NHS,ORG,5
+Yvonne,GPE,5
+the moon,LOC,5
+Youtube,GPE,4
+Zoloft,ORG,4
+NPC,ORG,4
+North America,LOC,4
+y'know,ORG,4
+NyQuil,ORG,4
+HRT,ORG,4
+Hawaii,GPE,4
+High School,ORG,4
+Sebastián,GPE,4
+Army,ORG,4
+Anyway,GPE,4
+Throwaway,ORG,4
+Dallas,GPE,4
+Thumbelina,GPE,4
+South Carolina,GPE,4
+Simpsons,ORG,4
+IRC,ORG,4
+IOP,ORG,4
+Greece,GPE,4
+iPhone,ORG,4
+TOO,ORG,4
+palestine,GPE,4
+I‘m,GPE,4
+Mediterranean,LOC,4
+LOTR,ORG,4
+MIL,ORG,4
+PTO,ORG,4
+YO,ORG,4
+COVID-19,ORG,4
+New Orleans,GPE,4
+FaceTime,ORG,4
+DEFINITELY,ORG,4
+EXTREMELY,ORG,4
+OWN,ORG,4
+uk,GPE,4
+Easter,FAC,4
+Dojae,ORG,4
+3D,ORG,4
+Washington,GPE,4
+FWB,ORG,4
+Netherlands,GPE,4
+DIY,ORG,4
+COVID,ORG,4
+McDonald,ORG,4
+Life,ORG,4
+Ohio,GPE,4
+POV,ORG,4
+GO HOME,ORG,4
+Ford,ORG,4
+ARFID,ORG,4
+CCTV,ORG,4
+CONSTANTLY,ORG,4
+Brooklyn,GPE,4
+NASA,ORG,4
+NFL,ORG,4
+Pepsi,ORG,4
+AMA,ORG,4
+CS,ORG,4
+CC,ORG,4
+Poland,GPE,4
+Paris,GPE,4
+Woohoo,ORG,4
+europe,LOC,4
+LOVED,ORG,4
+REALLY,ORG,4
+Us,GPE,4
+LinkedIn,GPE,4
+TMS,ORG,4
+AT&T,ORG,4
+Subway,ORG,4
+Wal-Mart,ORG,4
+Im,ORG,4
+Jayden,GPE,4
+🖤,ORG,3
+Detroit,GPE,3
+yâall,ORG,3
+NPD,ORG,3
+Nintendo,ORG,3
+CasualConversation,ORG,3
+Satan,GPE,3
+Rubik,ORG,3
+Vienna,GPE,3
+Idaho,GPE,3
+IVE,ORG,3
+bee,ORG,3
+km/h,ORG,3
+Instacart,ORG,3
+Southern California,LOC,3
+@ddlovato,ORG,3
+canada,GPE,3
+Giant,ORG,3
+GI,ORG,3
+iPod,ORG,3
+TON,ORG,3
+Honda,ORG,3
+Stick,FAC,3
+Husband,GPE,3
+texas,GPE,3
+Coronavirus,ORG,3
+the A/C,ORG,3
+sec,ORG,3
+DAE,ORG,3
+Home,ORG,3
+Home Alone,ORG,3
+Chemistry,ORG,3
+San Francisco,GPE,3
+I´m,ORG,3
+Computer Science,ORG,3
+Hagrid,GPE,3
+Halfway,ORG,3
+the University of Oklahoma,ORG,3
+Thailand,GPE,3
+Tesla,ORG,3
+ENTIRE,ORG,3
+AZ,ORG,3
+AWFUL,ORG,3
+Covid,GPE,3
+Georgia,GPE,3
+Scotland,GPE,3
+Arizona,GPE,3
+Trump,ORG,3
+Aphids,GPE,3
+TRIGGER,ORG,3
+Hong Kong,GPE,3
+DC,GPE,3
+the University of Michigan,ORG,3
+Medicaid,ORG,3
+Mcdonalds,FAC,3
+fue,ORG,3
+Alabama,GPE,3
+BLACK MY EYES,ORG,3
+Persia,GPE,3
+JobCorps,ORG,3
+Cambridge,GPE,3
+Russia,GPE,3
+Korea,GPE,3
+Islam,ORG,3
+SH,ORG,3
+SHIT,ORG,3
+BEG,ORG,3
+BDD,ORG,3
+Illinois,GPE,3
+BIL,ORG,3
+CSS,ORG,3
+Lebanon,GPE,3
+cheddar,GPE,3
+Wikipedia,ORG,3
+Physics,ORG,3
+Parker,ORG,3
+Pathetic,ORG,3
+VISA,ORG,3
+Philadelphia,GPE,3
+Phoenix,GPE,3
+Platinum,ORG,3
+AC,ORG,3
+YouTuber,ORG,3
+Xbox,ORG,3
+YT,GPE,3
+BMW,ORG,3
+Kraft,ORG,3
+Pills,ORG,3
+Pinterest,LOC,3
+PowerPoint,ORG,3
+J&J,ORG,3
+Taiwan,GPE,3
+SF,GPE,3
+ASD,ORG,3
+Africa,LOC,3
+Adventure Time,ORG,3
+Airbnb,ORG,3
+North Carolina,GPE,3
+CDC,ORG,3
+UTI,ORG,3
+OMG,ORG,3
+Matilda,ORG,3
+PBS,ORG,3
+Oreo,ORG,3
+Brazil,GPE,3
+McDonalds,ORG,3
+Maine,GPE,3
+Tokyo,GPE,3
+Piggy,GPE,3
+Fed,ORG,3
+AF,ORG,3
+Finland,GPE,3
+Fergie,ORG,3
+Ukraine,GPE,3
+FYI,ORG,3
+Olive Garden,FAC,3
+Vietnam,GPE,3
+Berlin,GPE,3
+DMV,ORG,3
+DD,GPE,3
+Dark Souls,ORG,3
+New Hampshire,GPE,3
+wheni,ORG,3
+NY,GPE,3
+Barcelona,GPE,3
+nova,LOC,3
+netflix,GPE,3
+xbox,ORG,3
+metro,FAC,3
+Disneyland,FAC,3
+DayQuil,ORG,3
+FBI,ORG,3
+144hz,GPE,3
+EAT,ORG,2
+Digital,ORG,2
+Dubai,GPE,2
+Thanksgivings,ORG,2
+The Social Dilemma,ORG,2
+Duolingo,GPE,2
+EDS,ORG,2
+APO,ORG,2
+API,ORG,2
+Tiffany Haddish,ORG,2
+The Office,ORG,2
+ACTUALLY,ORG,2
+ACL,ORG,2
+Toilet-san,ORG,2
+Tldr,ORG,2
+Titan,GPE,2
+Tumblr,ORG,2
+FRIEND,ORG,2
+FPS,ORG,2
+Mystery,ORG,2
+NFT,ORG,2
+NF,ORG,2
+View Poll](https://www.reddit.com,ORG,2
+WTF,ORG,2
+WITHOUT,ORG,2
+Netflix,ORG,2
+Navy,ORG,2
+National,ORG,2
+O.D,ORG,2
+Nostalgia,ORG,2
+NEO,ORG,2
+NC,GPE,2
+NPR,ORG,2
+NOBODY,ORG,2
+Bulgaria,GPE,2
+Burger King,ORG,2
+Burger,ORG,2
+MATHEW PERRY,ORG,2
+MAID,ORG,2
+Miami,GPE,2
+Metro,FAC,2
+Methadone,ORG,2
+Meth,GPE,2
+Modern Family,ORG,2
+Minnesota,GPE,2
+MtF,ORG,2
+NB,ORG,2
+Magic,ORG,2
+Massachusetts,GPE,2
+Martin,ORG,2
+Botox,ORG,2
+COPD,ORG,2
+COMPLETELY,ORG,2
+Britain,GPE,2
+C's,ORG,2
+Naruto,ORG,2
+Narcissistic,ORG,2
+Nana,ORG,2
+Big Table,ORG,2
+NSW,GPE,2
+YouTube,GPE,2
+Baltimore,GPE,2
+Oklahoma,GPE,2
+Mayo,ORG,2
+MegaMillions,ORG,2
+MCU,ORG,2
+MCAT,ORG,2
+MacBook,ORG,2
+Mac,ORG,2
+Ottawa,GPE,2
+PE,ORG,2
+PCP,ORG,2
+Newton,GPE,2
+New Zealand,GPE,2
+New Yorker,ORG,2
+New York City,GPE,2
+BSO,ORG,2
+Batchelor,ORG,2
+Barnes,GPE,2
+PAIN,ORG,2
+MUD,ORG,2
+Manhattan,GPE,2
+Malaysia,GPE,2
+PIANO,ORG,2
+PHP,ORG,2
+PGA,ORG,2
+Panera,GPE,2
+Orange Spice,ORG,2
+Ontario,GPE,2
+Palestine,GPE,2
+BTS,ORG,2
+Louisiana,GPE,2
+MD,GPE,2
+CMHT,ORG,2
+CVS,ORG,2
+CST,ORG,2
+chico,GPE,2
+MO,GPE,2
+MIT,ORG,2
+google,ORG,2
+PTSD &,ORG,2
+PSN,ORG,2
+PB&J,ORG,2
+WW,ORG,2
+Whiskey,FAC,2
+VR,GPE,2
+VIDEOS,ORG,2
+YouTubers,ORG,2
+LinkedIn,ORG,2
+Lindt,GPE,2
+LoL,ORG,2
+M30,ORG,2
+M22,ORG,2
+POTS,ORG,2
+POC,ORG,2
+LGBT,ORG,2
+Uyghur,ORG,2
+Please,ORG,2
+Pinterest,ORG,2
+Pineapple,ORG,2
+Poker,ORG,2
+Pumpkin Spice,ORG,2
+Puerto Rico,GPE,2
+RAW,ORG,2
+Ladybug,ORG,2
+La Boisselle,FAC,2
+CO,ORG,2
+CNA,ORG,2
+KA,ORG,2
+Cali,GPE,2
+Cake,ORG,2
+Keanu,ORG,2
+Kazakhstan,GPE,2
+Kazakh,GPE,2
+PetSmart,ORG,2
+PetCo,ORG,2
+WWE,ORG,2
+Autistic,LOC,2
+Rome,GPE,2
+SAed,ORG,2
+SHOULD,ORG,2
+Klonopin,GPE,2
+KitchenAid,ORG,2
+Carnegie Hall,ORG,2
+Cheddar,GPE,2
+Iraq,GPE,2
+Kid,ORG,2
+Jets,GPE,2
+SHE,ORG,2
+Austin,GPE,2
+BED,ORG,2
+BBQ,ORG,2
+SOB,ORG,2
+SM,ORG,2
+Sacramento,GPE,2
+SUPER,ORG,2
+STILL,ORG,2
+Indiana,GPE,2
+Imagine,GPE,2
+Central Asia,LOC,2
+Childhood,ORG,2
+Ill,GPE,2
+Cashier,ORG,2
+IMMEDIATELY,ORG,2
+ISO,ORG,2
+IR,ORG,2
+Hokkaido,ORG,2
+Chrysler,ORG,2
+italy,GPE,2
+kindest,ORG,2
+margaritas,ORG,2
+london,GPE,2
+acetaminophen,GPE,2
+belgium,GPE,2
+@discordapp,GPE,2
+blink-182,GPE,2
+Insomnia,ORG,2
+Jamaica,GPE,2
+Jordan,GPE,2
+HTML,ORG,2
+IEP,ORG,2
+City Hall,FAC,2
+IBS,ORG,2
+STD,ORG,2
+Safeway,ORG,2
+Sadhguru,GPE,2
+Satan,FAC,2
+Santa Clause,ORG,2
+Sandra Bullock,ORG,2
+Artifacts,ORG,2
+Video,ORG,2
+Verizon,LOC,2
+Venice,GPE,2
+Venezuela,GPE,2
+INSANELY,ORG,2
+Goodwill,ORG,2
+Cocoon,ORG,2
+Cocaine,ORG,2
+Honey,ORG,2
+Honduras,GPE,2
+U.K.,GPE,2
+Twitter](https://twitter.com/CasConvo,ORG,2
+Sims,ORG,2
+Snickers,ORG,2
+South Dakota,GPE,2
+ST,GPE,2
+Spaz,ORG,2
+South Jersey,GPE,2
+Husband,ORG,2
+Hospital,ORG,2
+HBD,ORG,2
+Seoul,GPE,2
+Segye,ORG,2
+Arkansas,GPE,2
+Seven Nation Army,ORG,2
+Universe,ORG,2
+Anhedonia,GPE,2
+Android,ORG,2
+Stranger Things,ORG,2
+Supreme Court,ORG,2
+Super,ORG,2
+Sun,ORG,2
+Hershey,ORG,2
+Healthcare,ORG,2
+Cowboys,ORG,2
+Genesis,ORG,2
+Gaza,GPE,2
+hypochondria,GPE,2
+GTA V,ORG,2
+GTA 5’s,ORG,2
+Going,ORG,2
+Glaucoma,GPE,2
+Great Clips,FAC,2
+Google Translate,ORG,2
+Google Images,ORG,2
+Guatemala,GPE,2
+D3,ORG,2
+C’s,ORG,2
+Czechoslovakia,GPE,2
+GENUINELY,ORG,2
+HP,ORG,2
+Harvard,ORG,2
+Halo,GPE,2
+Affirmation,ORG,2
+TRIGGER WARNING,ORG,2
+SuicideWatch,ORG,2
+Suicide,GPE,2
+Sydney,GPE,2
+THERAPIST,ORG,2
+Sofia,GPE,2
+Society,ORG,2
+Alright,ORG,2
+Alprazolam,ORG,2
+Algebra,ORG,2
+TBI,ORG,2
+hawaii,GPE,2
+https://t.co/FRhjVbgkUw,ORG,2
+india,GPE,2
+iTunes,ORG,2
+Fall,ORG,2
+Fair,ORG,2
+Cross Country,ORG,2
+Teams,ORG,2
+TaskRabbit,ORG,2
+The Dark Knight Armory](https://www.darkknightarmoury.com,ORG,2
+ALOT,ORG,2
+THC,ORG,2
+Uni,GPE,2
+Franklin,ORG,2
+DONE,ORG,2
+synesthesia,GPE,2
+spain,GPE,2
+TIME,ORG,2
+Success,ORG,2
+Subutex,GPE,2
+DST,ORG,2
+E-Mail,ORG,2
+Denmark,GPE,2
+Dollar General,ORG,2
+tunisia,GPE,2
+Doctoral Program,ORG,2
+DevOps,ORG,2
+Denver,GPE,2
+the east coast,LOC,2
+toshiba,ORG,2
+EDIT3,ORG,2
+DOB,ORG,2
+DNR,ORG,2
+Estonia,GPE,2
+FAQ,ORG,2
+AWESOME,ORG,2
+Yoshi,ORG,2
+Zopiclone,GPE,2
+Zimbabwe,GPE,2
+101st,ORG,2
+tanto,GPE,2
+the Cave of Hands,ORG,2
+the GRAND FINALE,ORG,2
+the OK Corral,ORG,2
+the National Suicide Prevention Lifeline,ORG,2
+the Samson co1u,ORG,2
+🥲,ORG,2
+@beijingboyce,ORG,2
+new york,GPE,2
+po,GPE,2
+pixton,GPE,2
+Egg,GPE,2
+😃🔫 Jesus,ORG,1
+🫣,ORG,1
+& nuggets & fries,ORG,1
+& pictures & I,ORG,1
+*Orange Surfboard:* “Mmhmm,ORG,1
+*Pink Surfboard:* Vitality,ORG,1
+-1,ORG,1
+70(154lbs,ORG,1
+6AM,GPE,1
+5:00pm pacific,ORG,1
+55th,LOC,1
+530am,ORG,1
+3rd Nightmare on Elm Street,ORG,1
+3rd Gin and Tonic,FAC,1
+200ml of Glass,ORG,1
+|Chachi|Chachu,ORG,1
+|Dada|Dad,ORG,1
+|Dadi|Dad,GPE,1
+~11pm,ORG,1
+@CHRISDJMOYLES,ORG,1
+@CITYPUBLICITY,ORG,1
+@Cookieex3 awesome,ORG,1
+@DEAHQ,ORG,1
+@DonalMacIntyre,ORG,1
+"@Elianasunshine7,Newfoundland",GPE,1
+@Fortitia,GPE,1
+@GlamLifeGuru Omg,ORG,1
+@Gtownfootball1 Congratulations,ORG,1
+/furby,GPE,1
+08/05/2022,ORG,1
+0€it,ORG,1
+Dollar General Since,ORG,1
+Dollhouse,ORG,1
+Dental,ORG,1
+Dental Assisting School,ORG,1
+Dentist,ORG,1
+Denzel Washington,ORG,1
+Dependant,ORG,1
+DestroyTwitter,ORG,1
+Desvelada,GPE,1
+Dicks,ORG,1
+Diet,ORG,1
+Diet Dr. Pepper,ORG,1
+Different Perspective,ORG,1
+Digg,GPE,1
+Dawn,GPE,1
+Daylight,ORG,1
+DXM,ORG,1
+Dr,ORG,1
+Dr.Pepper,ORG,1
+Drake,ORG,1
+Drivers License,ORG,1
+Drops of Jupiter,ORG,1
+Dublin,GPE,1
+Dundrum,ORG,1
+Dungeons and Dragons,ORG,1
+Digital Image Technician,ORG,1
+Digs Anime & Does,ORG,1
+Dillards,GPE,1
+Dino,LOC,1
+Discos,GPE,1
+Disney's Haunted Mansion,ORG,1
+Dobby,GPE,1
+Doordash,ORG,1
+Dororthy,ORG,1
+Dear Reddit,ORG,1
+Dear Zoo,ORG,1
+Debate Tournament,ORG,1
+Debbie,ORG,1
+Deftones,ORG,1
+Delete,ORG,1
+Dell,ORG,1
+Demi Lovato’s,ORG,1
+Demons,ORG,1
+DSM 5,ORG,1
+DTL,ORG,1
+DUI,ORG,1
+DUMPSTER,ORG,1
+DV,ORG,1
+END,ORG,1
+ENTIRELY,ORG,1
+EOC,ORG,1
+Dunkin Donuts,ORG,1
+Duo Lingo,ORG,1
+Duolingo,ORG,1
+Dusty,ORG,1
+Dylan,GPE,1
+"Dylan, Landon",ORG,1
+Dyslexia,GPE,1
+ECT & TMS,ORG,1
+EDH,ORG,1
+Dominos,ORG,1
+"Donde
+  
+
+  
+Oigo",ORG,1
+"Donde
+  
+
+  
+Sólo",ORG,1
+Donkey Kong Country,ORG,1
+EUR,ORG,1
+EVER,ORG,1
+EW,ORG,1
+EXCEPT,ORG,1
+EZ,ORG,1
+Eagle Scout,ORG,1
+Eargasm,ORG,1
+EDM,ORG,1
+ED’s,ORG,1
+EEG,ORG,1
+EFFECTS HAS FROZEN,ORG,1
+EFFEXOR,ORG,1
+EGD,ORG,1
+ELEVEN,ORG,1
+EMBARRASSING,ORG,1
+EMINEM,ORG,1
+Ebay,ORG,1
+Eden,GPE,1
+ESL,ORG,1
+ESPECIALLY,ORG,1
+EU,ORG,1
+EUPD/BPD,ORG,1
+Dada,FAC,1
+Dakno,FAC,1
+Dance Yourself Clean,ORG,1
+Dang,ORG,1
+Daria,GPE,1
+DarkScandals,ORG,1
+Data Structures,ORG,1
+DIDNT THINK ID BE,ORG,1
+DISHWASHER,ORG,1
+DM,GPE,1
+Ella,ORG,1
+Elstree Studios,ORG,1
+Elvises,ORG,1
+Earth Wind,GPE,1
+East,LOC,1
+East Asia,LOC,1
+East Berlin,GPE,1
+East Maine,GPE,1
+East coast,LOC,1
+Easter Dinner,ORG,1
+Easter Lily,ORG,1
+Easter Sunday,ORG,1
+Eastern,ORG,1
+Eastern European,LOC,1
+Eastern Standard,LOC,1
+Eat N Park,ORG,1
+Education,ORG,1
+Edward Jones,ORG,1
+Eeyore,ORG,1
+Effie,ORG,1
+DM’s,ORG,1
+DO,ORG,1
+DO NOT REPLY,ORG,1
+DOC,ORG,1
+DPDR,GPE,1
+DR,GPE,1
+DAILY,ORG,1
+DAMN,ORG,1
+DANC,ORG,1
+DCF,GPE,1
+El Dorado,GPE,1
+Elena,ORG,1
+FEELINGS,ORG,1
+Enternships.com,ORG,1
+Entrepreneur,ORG,1
+Environmental Science,ORG,1
+Equilibrium,ORG,1
+Era,ORG,1
+Escitalopram,ORG,1
+España,ORG,1
+Estefania,GPE,1
+Eta,ORG,1
+European Art,ORG,1
+Euthanasia,ORG,1
+Evangelical Christianity,ORG,1
+Edge,ORG,1
+Edit-Im,ORG,1
+Eds,ORG,1
+FOREVER,ORG,1
+FOURTEEN PERCENT,GPE,1
+FOV,ORG,1
+Extortionist,ORG,1
+Extranet,ORG,1
+Extreme Rules,ORG,1
+F14,ORG,1
+F20,ORG,1
+F21,ORG,1
+F25,ORG,1
+F28,ORG,1
+F30,ORG,1
+FABULOUS,ORG,1
+FAMILY,ORG,1
+FBM,ORG,1
+FEEDBACK,ORG,1
+FUCKING WISH SOMETHING WOULD,ORG,1
+FUCKKKKKK,ORG,1
+FUNCTION,ORG,1
+FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK,GPE,1
+FFA,ORG,1
+FFS,ORG,1
+FFWD,ORG,1
+FIL,ORG,1
+FINALLY,ORG,1
+FL,ORG,1
+FLIPPED,ORG,1
+FLOAT,ORG,1
+FML,ORG,1
+FND &,ORG,1
+FNS,ORG,1
+FOMO,ORG,1
+Fahlo,ORG,1
+Fahrenheit,GPE,1
+Fairly Odd Parents,ORG,1
+Fall Break,ORG,1
+Fallout New Vegas,ORG,1
+Fantasy / Sci-Fi,ORG,1
+FP,ORG,1
+FP&A,ORG,1
+FREAK THE FUCK OUT,ORG,1
+FREE,ORG,1
+FRIENDS,ORG,1
+FTR,ORG,1
+FUBAR,ORG,1
+FUCK FUCK FUCK FUCK FUCK,ORG,1
+FUCK OFF,ORG,1
+FUCKED,ORG,1
+Facebook,GPE,1
+Facebook & Instagram,ORG,1
+DDD,ORG,1
+DE,ORG,1
+DFW,ORG,1
+DHR,ORG,1
+DHS,ORG,1
+DHT,ORG,1
+DIDNT,ORG,1
+Crest,ORG,1
+Crest Children’s,ORG,1
+Crisis,ORG,1
+Crystal Clear,LOC,1
+Cuba,GPE,1
+Cuffed,ORG,1
+Facebook and Instagram,ORG,1
+Fragile Things,ORG,1
+Far,GPE,1
+Farsi,ORG,1
+Fast & Furious: New Model,ORG,1
+FedEx,GPE,1
+Fediverse,GPE,1
+Feeling Unwanted & Hopeless,ORG,1
+Feelings,ORG,1
+Fibromyalgia,GPE,1
+Fibromyalgia,ORG,1
+Fibromyalgia and Hypermobility,ORG,1
+Finance,ORG,1
+Financial,ORG,1
+Firefighter/EMT,ORG,1
+FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK,GPE,1
+FaceTimed,ORG,1
+Future,ORG,1
+Future Me,ORG,1
+Fuuuuck,GPE,1
+G.E.D,GPE,1
+GABAPENTIN,ORG,1
+First Date,ORG,1
+First Reddit,ORG,1
+Fitness,ORG,1
+Flamin Hot Cheetos,FAC,1
+Foo Fighters,ORG,1
+Football,ORG,1
+Forbes,ORG,1
+Forest Green,ORG,1
+Fort Sanders Yacht Club,ORG,1
+Foster Care,ORG,1
+Founder's KBS,ORG,1
+GIANT,ORG,1
+GIF,ORG,1
+GIRL,ORG,1
+GK,ORG,1
+GOATed,GPE,1
+GOP,ORG,1
+GOT,ORG,1
+Franzia,GPE,1
+Frauds,ORG,1
+Fridge,ORG,1
+"Friends, Partners",ORG,1
+"Friends, Teachers, Relatives",ORG,1
+Front of People,ORG,1
+Ft Sill,FAC,1
+FtM,ORG,1
+Fuckin,GPE,1
+Garden,GPE,1
+GAIN A SHED LOAD,ORG,1
+GAME,ORG,1
+GED Social Studies,ORG,1
+GFCI,ORG,1
+GGUI,ORG,1
+Culdesac,ORG,1
+Cupertino,GPE,1
+Customer,ORG,1
+Cyber,ORG,1
+Cystic Fibrosis,ORG,1
+Contemporary,ORG,1
+Coolest,LOC,1
+Cornell,GPE,1
+Corny,GPE,1
+Corona,ORG,1
+Genshin,ORG,1
+German Village,GPE,1
+Germanic,GPE,1
+Getaway,ORG,1
+Getting,ORG,1
+"Getting Fired, Life",ORG,1
+GOT INTO UNIVERSITY,ORG,1
+GPAC Football First Team Offense 2018,ORG,1
+GREAT,ORG,1
+GREAT SUCCESS,ORG,1
+GRRRRRRRRRRRRRRRRRR,ORG,1
+GSW,ORG,1
+GTI,ORG,1
+GYM,ORG,1
+Gangnam,GPE,1
+Gangnam & Songdo,ORG,1
+Gastric Sleeve,ORG,1
+Gauge,ORG,1
+Geek,LOC,1
+Gemini,ORG,1
+Costa Rica,GPE,1
+Couch,ORG,1
+Country,GPE,1
+Court,ORG,1
+CrazyTown USA,ORG,1
+Credit Card Debts,ORG,1
+Colombia,GPE,1
+Columbia,ORG,1
+Columbus,GPE,1
+Comcast,ORG,1
+Communication,ORG,1
+Communications,ORG,1
+Great Ape,ORG,1
+Great Clips,ORG,1
+Green,ORG,1
+Giant Eagle,ORG,1
+Giant Internet Shopping Corp,ORG,1
+Giants,ORG,1
+Giovanni,GPE,1
+Giovanni,ORG,1
+Gloria,GPE,1
+GoOgLe,ORG,1
+Goldman Sachs,ORG,1
+Gon,ORG,1
+Good Against Evil,ORG,1
+Goodbye,ORG,1
+Goodreads,ORG,1
+Garden Care,FAC,1
+Gusto kong,GPE,1
+Guy:* Aaahahaha,ORG,1
+H&M,ORG,1
+H.S,GPE,1
+HAHAHA Getting,ORG,1
+HAHAHA!,ORG,1
+HANL,ORG,1
+Google Digital Garage,ORG,1
+Google Drive,FAC,1
+Gorb,ORG,1
+Grace,ORG,1
+Grade 5,LOC,1
+Grade 9,LOC,1
+Graphic,ORG,1
+Grateful Dead,ORG,1
+Grave’s,ORG,1
+HEAVILYYY,ORG,1
+HEAVY,ORG,1
+HELL,GPE,1
+HGV,ORG,1
+HIMYM,ORG,1
+HOA,ORG,1
+HOT,ORG,1
+HOUSE,ORG,1
+Grocery Outlet,ORG,1
+Groups,ORG,1
+GrubHub,ORG,1
+Grudge,ORG,1
+Guadalcanal,ORG,1
+Guinness,ORG,1
+Guitar Hero,ORG,1
+Gulag,ORG,1
+Co,ORG,1
+CoD MW,ORG,1
+HYPERACUSIS,ORG,1
+Hades,FAC,1
+Hafiz_e_Quran,GPE,1
+Hahahah,GPE,1
+Hahahaha,ORG,1
+Haileigh,GPE,1
+Halloween Weekly,ORG,1
+HAPPILY ON MY OWN,ORG,1
+HAPPINESS,ORG,1
+HAPPY,ORG,1
+HAPPY ð,ORG,1
+HAS,ORG,1
+HBO,ORG,1
+HEALTHCARE,ORG,1
+HOllywood,GPE,1
+HSBC,ORG,1
+HUGZ,ORG,1
+Community,ORG,1
+Community College,ORG,1
+Community Mental Health Team Did Nothing,ORG,1
+Company,ORG,1
+Comparison,ORG,1
+Concentrate,GPE,1
+Connecticut,GPE,1
+Contacted the,ORG,1
+Clayster,ORG,1
+ClickClock,ORG,1
+Clinical Depression,ORG,1
+Clock,ORG,1
+Closeted,ORG,1
+Hershey’s,ORG,1
+Hiatal Hernia,ORG,1
+Highschool,ORG,1
+Handsome Devil,ORG,1
+Handyman Services,ORG,1
+Haneda,GPE,1
+Haneda Airport,FAC,1
+Hanging Tried,ORG,1
+Hannam & Janghanpyeon,ORG,1
+Hannibal,GPE,1
+Hanover,ORG,1
+Hardcover,ORG,1
+Hate,GPE,1
+Haven Behavioral Health Center,ORG,1
+Having,GPE,1
+Hawks,ORG,1
+Hobbies,FAC,1
+Hobbit,ORG,1
+Hokkaido,GPE,1
+Holiday Season,ORG,1
+Hollow Points,ORG,1
+Hollywood,GPE,1
+Hawthorns,GPE,1
+Head To Health Safe Haven,ORG,1
+Healthier,ORG,1
+Healthline,GPE,1
+Heard,ORG,1
+Heavy Rain,ORG,1
+Hell,GPE,1
+Hell 🚨🚨,ORG,1
+Hello Kitty,ORG,1
+Helsinki,GPE,1
+Hinge,ORG,1
+HipHoppington,ORG,1
+Hipolito,ORG,1
+History B1,ORG,1
+Coca Cola logo.,ORG,1
+Coding,ORG,1
+Coke Freestyle,ORG,1
+Coke Zero,ORG,1
+Cokes,ORG,1
+College,GPE,1
+College,ORG,1
+Chloe,ORG,1
+Choice Hotels,ORG,1
+Chopin,ORG,1
+Christ,GPE,1
+Christmas &,ORG,1
+Hurt,ORG,1
+Hyde Park,LOC,1
+Home Depot or Walmart,ORG,1
+Home Security Systems,ORG,1
+Home Services,ORG,1
+Home/Raining,ORG,1
+Homeland,LOC,1
+Homelander,GPE,1
+Homerun Derby EP,ORG,1
+Homophobia,ORG,1
+Homura,GPE,1
+Hongdae,GPE,1
+HootSuite,ORG,1
+Highway H,ORG,1
+Hijab Woman:* Life,ORG,1
+Hinge,LOC,1
+I'M SO FUCKING LONELY,ORG,1
+I'M SORRY I'M SORRY I'M AUTISTIC,ORG,1
+I(19,ORG,1
+"I(33,M",ORG,1
+I(F14,ORG,1
+"I. 
+
+Like",ORG,1
+Hopelessness,ORG,1
+Hoping,GPE,1
+Hot Cross Buns,ORG,1
+Hotline,ORG,1
+Housemate,ORG,1
+Huge Kansas City Chiefs,ORG,1
+Hugh,GPE,1
+Humorous Fiction,ORG,1
+Huracán,GPE,1
+Hurley,GPE,1
+IDK CAVEMEN YAAAAAAY,ORG,1
+IG Live,ORG,1
+IIT,ORG,1
+IJS,ORG,1
+IKEA,ORG,1
+ILL,ORG,1
+ILY,ORG,1
+Hyderabad,ORG,1
+Hypersexuality,ORG,1
+I AM DEFINITELY GOING TO STAB MY STOMACH,ORG,1
+I Am Going,ORG,1
+I Am Going To @lilyroseallen,ORG,1
+I'LL BE,ORG,1
+I'M GOING INSANE,ORG,1
+I'M GOING TO BE,ORG,1
+I'M NOT GAY,ORG,1
+I.E.,ORG,1
+IB,ORG,1
+Church,ORG,1
+Cigarettes,ORG,1
+Circular Economies,ORG,1
+Citalopram,ORG,1
+Civil Engineering & Construction Management. &,ORG,1
+Civil Litigation Midterm,ORG,1
+Civil Service,ORG,1
+Clair de Lune,ORG,1
+Cheetos,GPE,1
+Chernobyl,GPE,1
+Chess,ORG,1
+Chess.com,ORG,1
+Chevelle,GPE,1
+Chevy Malibus,ORG,1
+IM,FAC,1
+IM,ORG,1
+IM A FUCKING DEGENERATE USELESS,ORG,1
+IM GOING TO,ORG,1
+IM GOING TO DIE,ORG,1
+IM GOING TO TELL,ORG,1
+IM SO,ORG,1
+IM SO FUCKING TIRED OF BEING ALOOOOOOOOOOOOOOOOOOOOOOONE Nobody,ORG,1
+IM SO PROUD OF MYSELF,ORG,1
+IMAGINED,ORG,1
+INCAPABLE,ORG,1
+INSANE,ORG,1
+INSERT SPOOKY DUNGEON,ORG,1
+INTENSE,ORG,1
+I. A,ORG,1
+I. I,ORG,1
+Cerebral Palsy,ORG,1
+Certain,GPE,1
+Certified Peer Specialist,ORG,1
+Illuminati,GPE,1
+Ilsan,ORG,1
+Imagine Dragons,ORG,1
+Imo,ORG,1
+IncredibleIndia,ORG,1
+IPA,ORG,1
+IPad,ORG,1
+IRS,ORG,1
+IV Hodgkin,FAC,1
+IVF,ORG,1
+IWANTTODIEIWANTTODIEIWANTTODIE,ORG,1
+IYKYK,ORG,1
+Iceland,GPE,1
+Intermediate Algebra & Pre-statistics,ORG,1
+Interpol,ORG,1
+Ideation Been,ORG,1
+"Idk
+
+Maybe",ORG,1
+Iike,ORG,1
+Iill,ORG,1
+Chick Fil A One,ORG,1
+Chicken Feta,ORG,1
+Chicken Little,ORG,1
+Chick’n Carry cup,ORG,1
+Chiefs,ORG,1
+Chill,ORG,1
+Chimps,ORG,1
+Catharsical,ORG,1
+Celcius,ORG,1
+Central Europe,LOC,1
+Carnaval,ORG,1
+Islamophobic,ORG,1
+Israel,GPE,1
+Istanbul,GPE,1
+Ivdeserve,ORG,1
+Indie Music,ORG,1
+Indigo,ORG,1
+Indonesia,GPE,1
+Infront,GPE,1
+Insane,LOC,1
+Insta,GPE,1
+Instagrammer,ORG,1
+Instagrams,ORG,1
+Instawork,ORG,1
+Intelligence - Confession,ORG,1
+Intelligence/Talent,ORG,1
+Invest,ORG,1
+Iroha,GPE,1
+Isha Kriya,GPE,1
+Challenger,ORG,1
+Chanel,ORG,1
+Change,ORG,1
+Charisma,ORG,1
+Charities,ORG,1
+ChatGPT,ORG,1
+Cheers,ORG,1
+Cheesecake Factory,ORG,1
+Captain America,LOC,1
+Captcha,ORG,1
+Cardinals,ORG,1
+Career,FAC,1
+Carhartt,ORG,1
+Jr.,GPE,1
+I‘ve,ORG,1
+I’d,ORG,1
+I’m Asperger Autist,ORG,1
+I’m Autistic,ORG,1
+I’m Going to,ORG,1
+I’m Phoenix,ORG,1
+J.D. & highest law school,ORG,1
+JSA,ORG,1
+JUMPED,ORG,1
+JW,ORG,1
+Jackapoo,ORG,1
+Jacksonville,GPE,1
+Jacobs,ORG,1
+Janitor,LOC,1
+Interstellar,ORG,1
+KC,GPE,1
+KG,ORG,1
+KILL,ORG,1
+KINGS,ORG,1
+KP,GPE,1
+KTS,ORG,1
+Jealousy,ORG,1
+Jeep,ORG,1
+Jeffree,ORG,1
+Jehovahs,ORG,1
+Jersey,GPE,1
+Jess,ORG,1
+Joannâs,GPE,1
+Johnnys Pizza House,ORG,1
+Johns,ORG,1
+Journal,ORG,1
+Judge](http://imgur.com/XgCJHLD,ORG,1
+Jurassic Park,LOC,1
+Jurassic World,ORG,1
+Jury,ORG,1
+Justice,ORG,1
+Cartagena,GPE,1
+Cast,ORG,1
+Castlevania,ORG,1
+Cat,GPE,1
+Cat,ORG,1
+Cat Ronnie,ORG,1
+Cat Tax,ORG,1
+"Cacofonía
+  
+
+  
+",ORG,1
+Cada vez,ORG,1
+Cain's Jawbone,ORG,1
+Calculus,GPE,1
+Knight,ORG,1
+Korn,ORG,1
+KY,GPE,1
+Kan,ORG,1
+Kanade,LOC,1
+Kansas,GPE,1
+Kanye,GPE,1
+Karma,ORG,1
+Keanu Reeves,ORG,1
+Kelley Square,FAC,1
+Kelley Square Pizza,FAC,1
+Kelly Square Pizza,FAC,1
+Kennel Cough,ORG,1
+Kenya,GPE,1
+Kenzie,ORG,1
+Judaism,ORG,1
+Khan Academy,ORG,1
+Kia,ORG,1
+Kia Forte,ORG,1
+Call of Duty,ORG,1
+Cambridge University,ORG,1
+Candice,ORG,1
+Canva,ORG,1
+Canvas,ORG,1
+Capri Sun,ORG,1
+Capstones,ORG,1
+CRIED,ORG,1
+CRTL ALT,ORG,1
+CRY,ORG,1
+Kill,ORG,1
+King of Beers,ORG,1
+Kingdom,GPE,1
+Lamar,GPE,1
+Kota Kinabalu & Johor,ORG,1
+Kraft Mac,ORG,1
+Kratom,GPE,1
+Krispy Kreme,FAC,1
+Kroger,ORG,1
+Kum-n-Go,ORG,1
+Kylo/Ben Solo,ORG,1
+LDR,ORG,1
+LGBwhatsit,ORG,1
+LISTEN,ORG,1
+LIT,ORG,1
+LITERAL,ORG,1
+Keppra,GPE,1
+Kerbal Space Program,ORG,1
+Kesha,GPE,1
+LITERALLY,ORG,1
+LOSER,ORG,1
+LOT OF INTEREST,ORG,1
+LOUD,ORG,1
+CSI,ORG,1
+CTB,ORG,1
+CUT MY,ORG,1
+CUT MY WRISTS,ORG,1
+CUTE,ORG,1
+CNN,ORG,1
+CNSC,ORG,1
+COCSA,ORG,1
+COD,ORG,1
+LPN,ORG,1
+LTR,ORG,1
+Ladybugs,GPE,1
+Linus,GPE,1
+Lio,GPE,1
+Larchmont,GPE,1
+Las vegas,GPE,1
+Lasagna - Pewdiepie,ORG,1
+Latin America,LOC,1
+Latvia,GPE,1
+Law School,ORG,1
+Lawton,GPE,1
+Le Havre,FAC,1
+Legs the Bathroom,ORG,1
+Leigh,ORG,1
+Lemon,ORG,1
+Lemonade weed & wine,ORG,1
+Leper,ORG,1
+Lesser,ORG,1
+Leven,GPE,1
+Lexamil,ORG,1
+Lidl,GPE,1
+Lie,GPE,1
+Life Sucks,ORG,1
+COLA,ORG,1
+CORD,ORG,1
+CORRECT,ORG,1
+COVID &,ORG,1
+CBS Bracket Challenge,ORG,1
+CDMO,GPE,1
+CEN,ORG,1
+Life/Death,ORG,1
+Lifetime,ORG,1
+Lil Peep,ORG,1
+Lincoln Nebraska,ORG,1
+M33,ORG,1
+MA,GPE,1
+Lithuania,GPE,1
+Litterally,ORG,1
+Litteraly,GPE,1
+Little Mr 4,ORG,1
+Lived,GPE,1
+Lo-Fi.. Dictation,ORG,1
+Logan airport,FAC,1
+Loki,GPE,1
+London Underground,ORG,1
+Loneliness,ORG,1
+Long Island,GPE,1
+Lorinda,GPE,1
+Lost,ORG,1
+"Leukaemia, Arthritis",ORG,1
+Burnout Shitty,ORG,1
+MCDONald's For THe reSt Of yOUr,ORG,1
+MEDICAL LAB SCIENCE,ORG,1
+MEDICAL LABORATORY SCIENCES,ORG,1
+MEN,ORG,1
+MENSA,ORG,1
+Lot](https://open.spotify.com,ORG,1
+Louis Vuitton,ORG,1
+Lowe's,ORG,1
+Lowe's of around 2 years,ORG,1
+Lucky Charms,ORG,1
+Luigi,ORG,1
+Lymphoma,GPE,1
+Lyvia,GPE,1
+M21,ORG,1
+M27,ORG,1
+MAN,ORG,1
+MAX,ORG,1
+MBK,ORG,1
+CERB,ORG,1
+CGI,ORG,1
+CHANCE,ORG,1
+CHF,ORG,1
+CID,ORG,1
+CIRCLES,GPE,1
+CLOCK,ORG,1
+CLUB,ORG,1
+CM,ORG,1
+Bulimia,ORG,1
+Bullied &,ORG,1
+Bundt,ORG,1
+Burdon,GPE,1
+Madoka,GPE,1
+Madrid,GPE,1
+META,ORG,1
+MFA,ORG,1
+MFER,ORG,1
+MIA,ORG,1
+MINS,ORG,1
+MLIS,ORG,1
+MLK,ORG,1
+MLO &,ORG,1
+MN,ORG,1
+MNC,ORG,1
+MOAR,ORG,1
+MOD,ORG,1
+MAIN,ORG,1
+MAJOR,ORG,1
+Main,ORG,1
+Makers,ORG,1
+Maladaptive Daydreaming,ORG,1
+Mall Shoe Cleaners,ORG,1
+Mami,GPE,1
+MOON,ORG,1
+MState,ORG,1
+MTB,ORG,1
+MTV,ORG,1
+MU POST,ORG,1
+MURDER,ORG,1
+MVP,ORG,1
+MY FIRST EVER APARTMENT,ORG,1
+MacBooks,ORG,1
+Macao,GPE,1
+Macintosh,ORG,1
+Brock,ORG,1
+Brought,ORG,1
+Markham,GPE,1
+Marlboro,ORG,1
+Marlena,ORG,1
+Marunouchi Sadistic,ORG,1
+Marvel,ORG,1
+Marvel Studios,ORG,1
+Mass.,GPE,1
+Maemo,ORG,1
+Mag,ORG,1
+Magento,ORG,1
+Magnolia,GPE,1
+Magnus Chase,GPE,1
+Mahjong,GPE,1
+Maiko,ORG,1
+Mantel,ORG,1
+Maotai,GPE,1
+Marbella,LOC,1
+Marijuana,GPE,1
+Marine Corps,ORG,1
+Marketplace,ORG,1
+Business Admin &,ORG,1
+Bye Gon,ORG,1
+C19,ORG,1
+CA,ORG,1
+CALM,ORG,1
+CAMHS,ORG,1
+CANCER,ORG,1
+CAP,ORG,1
+Britbox,ORG,1
+Broad City,GPE,1
+Meg,ORG,1
+Melatonin,ORG,1
+Meme,ORG,1
+Memento,GPE,1
+Memphis,GPE,1
+Mental Clarity,ORG,1
+Mastercard,GPE,1
+Mathias,ORG,1
+"Maverick, Fargo",ORG,1
+Mayonnaise,GPE,1
+Mazda,ORG,1
+Mazowieckie,LOC,1
+Mc Flipside,ORG,1
+McD,ORG,1
+McFly,ORG,1
+Manila,GPE,1
+Brownie,ORG,1
+Bruce Almighty,ORG,1
+Bryden Rd,GPE,1
+Bubblegum,LOC,1
+Bubblegum,ORG,1
+Buckingham Palace,FAC,1
+Buena Vista Social Club,ORG,1
+Building,GPE,1
+Bojack Horseman,ORG,1
+Bonus,FAC,1
+Boomers,GPE,1
+Borderline,ORG,1
+Borderline Personality Disorder,ORG,1
+Borg Drone,ORG,1
+Boring Life,ORG,1
+Meds,ORG,1
+Monocular Vision,ORG,1
+Mental Healthcare,ORG,1
+Mental Illness Sucks,ORG,1
+Menu,ORG,1
+Mercedes,ORG,1
+Mercury,ORG,1
+Meta,ORG,1
+Meth Free Me,ORG,1
+Miata,GPE,1
+Michaels,GPE,1
+Micro Center,FAC,1
+McMansion,ORG,1
+Mcdonald’s,ORG,1
+Me,ORG,1
+Mecca,GPE,1
+Med/Dent,ORG,1
+Mount Rushmore,LOC,1
+Movies,ORG,1
+Mozilla Firefox,ORG,1
+Mt. Everest,LOC,1
+MicroBlog,ORG,1
+Midnight & Canada,ORG,1
+Milla-Jovovich,ORG,1
+Millionaire,ORG,1
+Milo,ORG,1
+Minneapolis,GPE,1
+Misery,ORG,1
+Misophonia,GPE,1
+Mississippi,GPE,1
+Mitama,GPE,1
+Mitsubishi Challenger,ORG,1
+Mon/Fri,ORG,1
+NAME,ORG,1
+NARRRRRR WE NEVER,ORG,1
+NATO,ORG,1
+NBA,ORG,1
+NBC,ORG,1
+Monster Energy,ORG,1
+Monster High,FAC,1
+Mooncake,ORG,1
+Moonfall,ORG,1
+Moonfall Edit - Watched Geostorm,ORG,1
+Morty,GPE,1
+Moscow,GPE,1
+Motivation,ORG,1
+Motrin,GPE,1
+Mounds,GPE,1
+Mount Everest,LOC,1
+My Local Buy Nothing Group,ORG,1
+MySpace,ORG,1
+Bought,ORG,1
+Boutta,GPE,1
+Breakfast,LOC,1
+Brian Eno & J. Peter Schwalm Ã¯Â¿Â½ Like Pictures,ORG,1
+Brick Lane,FAC,1
+Brit,ORG,1
+Black + Decker logo.,ORG,1
+Black Panther,ORG,1
+Blaine,GPE,1
+Blairstown,GPE,1
+Blake,GPE,1
+Blanche,ORG,1
+Blizza,GPE,1
+N,ORG,1
+NOTHINGâs,ORG,1
+NP,ORG,1
+NSAIDs,ORG,1
+NBD,GPE,1
+NCAA,ORG,1
+NCIS,ORG,1
+NCTM,ORG,1
+NE,GPE,1
+NEVER SLIT,ORG,1
+NEW ZEALAND,GPE,1
+NFC,ORG,1
+NG,ORG,1
+Munchlet,ORG,1
+Music,ORG,1
+Music Group,ORG,1
+Music Music,ORG,1
+Bev,GPE,1
+Beyoncé,ORG,1
+Big L and Eazy,ORG,1
+Big Mac,ORG,1
+N\*\*\*\*r,GPE,1
+Napa Valley,GPE,1
+Naples,GPE,1
+Narwhal,ORG,1
+NH,ORG,1
+NICU,ORG,1
+NIGHTMARE,ORG,1
+NJ,ORG,1
+NM,ORG,1
+NMom,ORG,1
+NNN,ORG,1
+NOBODYS,ORG,1
+Never Gon,ORG,1
+New England,LOC,1
+NV,GPE,1
+NY,ORG,1
+NY Times,ORG,1
+Blizzcon,ORG,1
+BlogWorld,ORG,1
+Blood,FAC,1
+Blue Cross,ORG,1
+Blue Exorcist,ORG,1
+Blue Rodeo,ORG,1
+Bluebells,ORG,1
+Blur - Song,ORG,1
+Boa,ORG,1
+Bethesda Games,FAC,1
+Better Energy/Sleep,ORG,1
+Behaivoral Health Unit,ORG,1
+Beijing,GPE,1
+Belfast,GPE,1
+Belgium,GPE,1
+New World and Life,ORG,1
+New Zealnd,LOC,1
+Newgrounds,GPE,1
+Newspapers,ORG,1
+Nasa,ORG,1
+Nashville,GPE,1
+National Theatre Live,ORG,1
+Navy Blue,ORG,1
+Neat,ORG,1
+Nembutal,ORG,1
+NeoCities,ORG,1
+Nestle Crunch,ORG,1
+New Mental Wellness Plan,ORG,1
+New Mexico,GPE,1
+New Moon,LOC,1
+New Romantic,LOC,1
+Big Time Rush,ORG,1
+BigLaw,ORG,1
+Billboard Social,ORG,1
+Billie Holiday - I,ORG,1
+Bills,ORG,1
+Billy,ORG,1
+Bing and Bean,ORG,1
+Biological,ORG,1
+Biomedical Science,ORG,1
+Beatty's Chocolate Cake,ORG,1
+Becky,GPE,1
+Beforehand,ORG,1
+OD,ORG,1
+Newton,ORG,1
+Nexplanon,ORG,1
+Ngayon,ORG,1
+Niche Hobbies,ORG,1
+Nickelback,ORG,1
+Nico,ORG,1
+Nietzsche,ORG,1
+Nikki,GPE,1
+Nirvana,GPE,1
+Nobles,ORG,1
+Nokia N95-1,ORG,1
+Non-Existence Bothers Me Suicide,ORG,1
+Noo,ORG,1
+North Africa,GPE,1
+New Jersey,GPE,1
+OOW,ORG,1
+OSS,ORG,1
+OST,ORG,1
+Oatmilk,ORG,1
+Ocean Blue?,ORG,1
+Office,ORG,1
+North Dakota,GPE,1
+Northen ireland,GPE,1
+Novavax,ORG,1
+Novocain,ORG,1
+Nsfw,ORG,1
+Numb,ORG,1
+Nursing,GPE,1
+Nutcracker,ORG,1
+Nyquil,ORG,1
+OA,GPE,1
+Baptist,ORG,1
+Bar Mitzvah,LOC,1
+Omeprazole,ORG,1
+Openmoko FreeRunner,ORG,1
+Opera GX,ORG,1
+Ophelia,GPE,1
+Opiates,ORG,1
+Opioids,ORG,1
+Orbital,ORG,1
+ODSMT,ORG,1
+OD’ed,GPE,1
+OEM,ORG,1
+OFFICIALLY,GPE,1
+OMPA,ORG,1
+ON MY COLLEGE CALCULUS,ORG,1
+ON THIS GODDAMN PLANET WHO EVEN,ORG,1
+Ozma,GPE,1
+P,ORG,1
+OkCupid,ORG,1
+Oktoberfest,GPE,1
+Old Navy,ORG,1
+Olive Garden Woke,ORG,1
+Bell,ORG,1
+Bella & Ari,ORG,1
+Bellingham,GPE,1
+Ben & Jerrys,ORG,1
+BenignExistence,ORG,1
+Berlin Germany,GPE,1
+Best Buddies,ORG,1
+Bali,GPE,1
+Ballet,ORG,1
+Bangladesh,GPE,1
+PBJ,ORG,1
+PBS Kids,ORG,1
+PDF,ORG,1
+PEG,ORG,1
+PET,ORG,1
+Oregon Media Production Association,ORG,1
+Oregon Trail,FAC,1
+Organic Chemistry,ORG,1
+Organic Chemistry 1,ORG,1
+Original Thread](https://www.reddit.com/r/CasualConversation,ORG,1
+Orlando,GPE,1
+Otaku,GPE,1
+Outrageous,LOC,1
+Oxford,ORG,1
+Oxford University,ORG,1
+OxyContin,ORG,1
+PPS,ORG,1
+P.E.,GPE,1
+PALE,ORG,1
+PARKOUR,ORG,1
+PB & J,ORG,1
+PB & J's,ORG,1
+Barney & Friends,ORG,1
+Bartenders of Reddit,ORG,1
+Bay,LOC,1
+Baylor's,ORG,1
+Bayonetta,ORG,1
+Be Humble,ORG,1
+Beat The Geek,ORG,1
+BP,ORG,1
+BPD & ADHD,ORG,1
+BRAZIL,GPE,1
+BIRTHDAYS,ORG,1
+PTSDC,ORG,1
+PUT YER FUCKIN',ORG,1
+PW,GPE,1
+Painkillers,ORG,1
+Pancreatic Cancer,ORG,1
+Panera,ORG,1
+PJ,ORG,1
+PLEASEEEE,ORG,1
+PLN,ORG,1
+PMS,ORG,1
+PNW,ORG,1
+PO,ORG,1
+POINT,ORG,1
+PPD,ORG,1
+PPE,ORG,1
+Peace Corps,ORG,1
+PROBABLY WOULD END UP IN,ORG,1
+PROUD,ORG,1
+PS: Mods,ORG,1
+BVM,ORG,1
+BYU,ORG,1
+Babar,ORG,1
+Bachelors Thesis,ORG,1
+Badminton,GPE,1
+Baking,ORG,1
+Bakugan,GPE,1
+BFA,ORG,1
+BFF,ORG,1
+BG,ORG,1
+BIC,ORG,1
+BIRD,ORG,1
+BAR,ORG,1
+Phantom Liberty,ORG,1
+Phillies,ORG,1
+Phone,ORG,1
+Panera “Trust me,ORG,1
+Paramore,ORG,1
+Paramount,ORG,1
+Parkinsons,GPE,1
+Paroxetine and Lorazepam,ORG,1
+Particle Physics,ORG,1
+Password,ORG,1
+Patagonia,GPE,1
+Patriots,ORG,1
+Paxil,GPE,1
+Paxton,ORG,1
+PayPal,ORG,1
+Please Someone,ORG,1
+Peacock “AE,ORG,1
+Pembroke College Cambridge,ORG,1
+Penrith,GPE,1
+Pentagon,ORG,1
+Pepperoni Pizza,ORG,1
+BJJ,ORG,1
+BK,ORG,1
+BM,ORG,1
+BMV,ORG,1
+BMX,ORG,1
+BOY,ORG,1
+BACHELOR,ORG,1
+BACK,ORG,1
+BAM,ORG,1
+BAMN,ORG,1
+Polo,FAC,1
+Popeyes,GPE,1
+Popeyes,ORG,1
+Popples,GPE,1
+Porsche,ORG,1
+Portofino,GPE,1
+Portsmouth Regional Hospital,ORG,1
+Portugal,GPE,1
+Pierogi,ORG,1
+Pikachu,GPE,1
+Pink Quartz Minerals,ORG,1
+Pittsburg,GPE,1
+Pizza Hut,ORG,1
+Plato,ORG,1
+Playlists,ORG,1
+Please Be Considerate To Teenagers Out Trick-Or-Treating Hello,ORG,1
+Point,ORG,1
+Pokemon,ORG,1
+Pokey,ORG,1
+Pokémon,ORG,1
+Police Academy,ORG,1
+BAS in Health Services Administration: Human Services,ORG,1
+BBC,ORG,1
+BC,ORG,1
+BE,ORG,1
+BET,ORG,1
+Atlanta,GPE,1
+Audacity,ORG,1
+Aunt,ORG,1
+Aunt Lisa's,ORG,1
+Auntie Ashley,GPE,1
+Aus to Vegas,GPE,1
+Quebec,GPE,1
+Post Malone,ORG,1
+Post Partum,ORG,1
+PostRank,ORG,1
+Postpartum,GPE,1
+Potassium Chloride,ORG,1
+Potato Broccoli Cheesy Soup,ORG,1
+Prada,ORG,1
+Prank Ideas,ORG,1
+Pregabalin,GPE,1
+Press Conference,ORG,1
+Primark,GPE,1
+PrincessChard,ORG,1
+Prison,GPE,1
+Prius,ORG,1
+Problem,GPE,1
+REBC,ORG,1
+RED CROSS,ORG,1
+REM,ORG,1
+Process Addictions,ORG,1
+Progress,GPE,1
+Prosecco,ORG,1
+"Prosper, Trick or Treat",ORG,1
+Prozac,ORG,1
+Pspspsp,ORG,1
+Psychiatric Teams,ORG,1
+Publix,ORG,1
+Pumpkin Spice Oatmilk Cold,ORG,1
+Pure and Applied Sciences,ORG,1
+PureSleep,ORG,1
+PwD,ORG,1
+Quantum,ORG,1
+RT @Raptors_22,GPE,1
+RT @WayneRooney: Congratulations,ORG,1
+RT @anjellycaa,ORG,1
+RT @chimchim246:,ORG,1
+RT @joonswrlds,ORG,1
+Quetiapine,GPE,1
+Quit,ORG,1
+Quizlet,ORG,1
+Quora,GPE,1
+Québec,GPE,1
+R&M,ORG,1
+R*PE,GPE,1
+RA,ORG,1
+RBF,ORG,1
+RDC,ORG,1
+REALLY TERRIBLE,ORG,1
+Rant.and,GPE,1
+Rapid Eye Movement,ORG,1
+Rate,ORG,1
+Rebecca,GPE,1
+Recess,ORG,1
+Red Bull,ORG,1
+RGB,ORG,1
+RIP,ORG,1
+RPG,ORG,1
+RT @8BitSlothiness: @nickmon1112,ORG,1
+RT @AUTHORSWEEK,ORG,1
+RT @CapcomFighters: Congratulations,ORG,1
+RT @Gorb_FanClub: Congratulations,ORG,1
+RT @JimmieAthletics: Congratulations,ORG,1
+RT @MilradJalen,ORG,1
+RT @NiallOfficial,ORG,1
+Respect,ORG,1
+Reversi,ORG,1
+Rhode Island,GPE,1
+Riddim,ORG,1
+Rinse & repeat,ORG,1
+Rio,ORG,1
+Rio de Janeiro,GPE,1
+Rippingtons,ORG,1
+RT @juliareyes004: @Ryankingry You,ORG,1
+RT @voidpaola,ORG,1
+RUBIK,ORG,1
+RV,GPE,1
+RV,ORG,1
+RX,ORG,1
+Rainbow,ORG,1
+Ram,ORG,1
+Roommate,GPE,1
+"Rose, Emma",ORG,1
+RoseRed,ORG,1
+Route Climbing](https://routeclimbing.modoo.at/,FAC,1
+Royal,GPE,1
+Royal Purple,ORG,1
+Ruby,GPE,1
+Rugby,ORG,1
+Reddit Marketing,ORG,1
+Reddit Post,ORG,1
+Reddit Today,ORG,1
+Reddit and Redditors,ORG,1
+Redditland,GPE,1
+Rejected,FAC,1
+Renal,ORG,1
+Residental,ORG,1
+Robitussin,GPE,1
+Rocketman,ORG,1
+Rocky/Stallone,ORG,1
+Rodeo,ORG,1
+Autistic,ORG,1
+Ava,ORG,1
+Avatar,ORG,1
+Aviation Maintenance,ORG,1
+Avoid Awkward Silences,ORG,1
+Awkwafina,GPE,1
+B. Decently,ORG,1
+Artist,GPE,1
+Artist,ORG,1
+Artist - BSO,ORG,1
+Aruba,GPE,1
+Ask Metafilter,ORG,1
+SILVER,ORG,1
+SIMPLEXITY,GPE,1
+SIN,ORG,1
+Ryder,ORG,1
+Ryleigh,GPE,1
+Ryujin,GPE,1
+S)FP,ORG,1
+S/H-ing,ORG,1
+SA &,ORG,1
+SATY HOME,ORG,1
+"SA]
+
+",ORG,1
+SCAM,ORG,1
+SCP,ORG,1
+SCREW THIS PLACE,ORG,1
+Risperidone,ORG,1
+Ritz,ORG,1
+SONG,ORG,1
+SPLAT,ORG,1
+SQL,ORG,1
+SR Release,ORG,1
+SSL,ORG,1
+SSN,ORG,1
+STARTED MY FIRST JOB,ORG,1
+STBXH,ORG,1
+SFX,ORG,1
+SH SH,ORG,1
+SH Work,ORG,1
+SH*T,ORG,1
+SHADOW,ORG,1
+SHOCKER,ORG,1
+SHOE,ORG,1
+SIA,ORG,1
+Approx,GPE,1
+Arby’s,ORG,1
+Arctic,LOC,1
+Are Geishas Historical Reenactors,ORG,1
+STUPID,GPE,1
+SUBHUMANS,ORG,1
+SUN,ORG,1
+SUUCK,ORG,1
+SW,ORG,1
+Sa,ORG,1
+Sa ngayon,ORG,1
+SINCERELY,ORG,1
+SIT,ORG,1
+SKY,ORG,1
+SN,ORG,1
+SNU,ORG,1
+STOKED,ORG,1
+STP,ORG,1
+STRICTLY,ORG,1
+STUDENT,ORG,1
+Asperger,ORG,1
+Asperger Syndrome,ORG,1
+Asperger’s,ORG,1
+Assassin,ORG,1
+Associate,ORG,1
+Associate of Technical Study,ORG,1
+Asteroid,GPE,1
+Astrocytoma,GPE,1
+Athens,GPE,1
+Apple Watch,ORG,1
+Appliance Repair,ORG,1
+Applied Sciences,ORG,1
+Schizophrenia,ORG,1
+School,ORG,1
+Schrodinger's Mother's Day Today,ORG,1
+Sadhhguru,GPE,1
+Salina,GPE,1
+Salma,GPE,1
+Salmon](https://imgur.com,ORG,1
+Salmonella,ORG,1
+Salsa,GPE,1
+Salvation Army,ORG,1
+Sam's Club,ORG,1
+Sam's Cola,ORG,1
+Samantha Bee &,ORG,1
+Samoa,ORG,1
+Samsung,ORG,1
+San Diego,GPE,1
+Anti-Good Jokes,ORG,1
+"Anxiety, Depression",ORG,1
+Anything,GPE,1
+Sec,ORG,1
+Sedona,GPE,1
+Septum,GPE,1
+Server Anxiety,ORG,1
+Setting,GPE,1
+San Francisco Bay Area,GPE,1
+Sandy,ORG,1
+Santa Clarita Diet,ORG,1
+Santa Claus,ORG,1
+Sara,GPE,1
+Sarcasm,ORG,1
+Sayaka,GPE,1
+"Schindler's List, Dear Zachary, Grave of the Fireflies",ORG,1
+Scott Paper Towels,ORG,1
+Script,LOC,1
+Scroll,ORG,1
+Sea Of Thieves,ORG,1
+Seat,GPE,1
+Seat,ORG,1
+Argentina,GPE,1
+Ariana Grande,ORG,1
+Aripiprazole,ORG,1
+Artbreeder,ORG,1
+Artbreeder One,ORG,1
+Artemis,ORG,1
+Animal,ORG,1
+Anorexia,ORG,1
+Ant,ORG,1
+Antarctic,LOC,1
+Sky,ORG,1
+Settlers of Catan,ORG,1
+Sevenfold,GPE,1
+Severe Anxiety,ORG,1
+Shamayim,GPE,1
+Shanara,ORG,1
+Shanghai,GPE,1
+Shania Twain,ORG,1
+Shannon,FAC,1
+Shazam,GPE,1
+Shazam,ORG,1
+She's(my,ORG,1
+Sheena Ringo,ORG,1
+Sheffield,GPE,1
+Shell,ORG,1
+She’s Going Through a Breakup,ORG,1
+Sober September &,ORG,1
+Social,ORG,1
+Social Anxiety,ORG,1
+Social Media,ORG,1
+Shibuya/Shinjuku,ORG,1
+Shutter Island,FAC,1
+Siberia,LOC,1
+Sibling,GPE,1
+Silicon Valley,LOC,1
+Silver Linings Playbook,ORG,1
+Simmer,ORG,1
+Simona,GPE,1
+Sims 4,ORG,1
+Singapore,GPE,1
+Single,GPE,1
+Skinny Bitch,ORG,1
+South,LOC,1
+South Africa,GPE,1
+South Asia,LOC,1
+South California,GPE,1
+South England,LOC,1
+Sky News,ORG,1
+SleepScore Labs](https://www.sleepscore.com,ORG,1
+Sloth,ORG,1
+Smackdown,ORG,1
+Smart,ORG,1
+Smash Brothers,ORG,1
+Smother Me,ORG,1
+Snaps,GPE,1
+Snippets,ORG,1
+SnowboardLite,ORG,1
+Snuggie,GPE,1
+Society’s,ORG,1
+Software,ORG,1
+Something About Life,ORG,1
+Song/,ORG,1
+Anywayys,GPE,1
+AoT,ORG,1
+Apollo Theater Amateur Night,ORG,1
+Apple CarPlay,ORG,1
+Apple Music,ORG,1
+Apple Pay,ORG,1
+Alton,GPE,1
+Aluminum/Titanium,ORG,1
+AmeriCorps,ORG,1
+American Express,ORG,1
+Songs Am,ORG,1
+Sophie,ORG,1
+St. Patty’s Day,FAC,1
+Stanford Summit 2008,ORG,1
+Star Trek,ORG,1
+South FL,LOC,1
+South Korea,GPE,1
+South L.A.,LOC,1
+South Texas,GPE,1
+South Wales,GPE,1
+South-East Asia,LOC,1
+Southeast Arkansas,LOC,1
+Southeast Asia,LOC,1
+Spaghetti,ORG,1
+Spain - Mathias,ORG,1
+Sparkle,ORG,1
+Sparta,GPE,1
+Social Medias,ORG,1
+Steam,GPE,1
+Step Guide,ORG,1
+Stepbrothers,ORG,1
+Stepdad,ORG,1
+Stitch,ORG,1
+Stone Temple Pilots,ORG,1
+SpeakYourselfSG,GPE,1
+Spider Relocation Program,ORG,1
+SpiderBro,ORG,1
+Spidey,GPE,1
+Spirit,ORG,1
+Spoke,ORG,1
+SpongeBob,ORG,1
+Spongebob,LOC,1
+Spotify Premium,FAC,1
+Spurs,GPE,1
+Alexa,ORG,1
+Alexander,ORG,1
+Student Council,ORG,1
+Studio Ghibli's,ORG,1
+Stupid,GPE,1
+Substance Abuse and,ORG,1
+Subway,GPE,1
+Sudan,GPE,1
+Stardew Valley,LOC,1
+Starships,ORG,1
+Started,ORG,1
+Stasi,LOC,1
+State,ORG,1
+State Militia,ORG,1
+Statistics,GPE,1
+Stats,ORG,1
+Storybots,GPE,1
+Street Style Radio,ORG,1
+Strength,ORG,1
+Strength and Agility,ORG,1
+Stress,FAC,1
+Americas,LOC,1
+Amicus,ORG,1
+Amsterdam,GPE,1
+Anaheim,GPE,1
+Anand,GPE,1
+Ancient Persia / Cyrus the Great,ORG,1
+Andhra Pradesh,GPE,1
+Alameda,GPE,1
+Alchohol,ORG,1
+Alcoholic,ORG,1
+Alcoholism,ORG,1
+TASTE,ORG,1
+TAXES,ORG,1
+TB,ORG,1
+TBH,ORG,1
+Suffice,ORG,1
+Suicidal,ORG,1
+Suicidal / Depressed,ORG,1
+Suicidal Ideation,ORG,1
+Suicides,LOC,1
+SunFlowers,ORG,1
+Sunny,ORG,1
+Super Eyepatch Wolf,ORG,1
+Super List,ORG,1
+Superhero,ORG,1
+Superman,FAC,1
+Storage Services,ORG,1
+THAT THING DOESN'T FUCKING EXIST,ORG,1
+THE FIRST TIME EVER,ORG,1
+THE FLAVOR ISNT AS STRONG,ORG,1
+THE GODDAMN BLOCK,ORG,1
+"THE HELL IS GOING ON
+Their",ORG,1
+THIS SHIT LIFE AND WORLD,ORG,1
+THREW MY SCALE,ORG,1
+Surgeon,ORG,1
+Surveyjunkie,GPE,1
+Swamp,GPE,1
+Sweetbox,ORG,1
+Sydney/Melbourne,ORG,1
+System,FAC,1
+System,ORG,1
+T-Mobile,ORG,1
+T25 University,ORG,1
+TETRIS,ORG,1
+TF,ORG,1
+TH,ORG,1
+Alice in Wonderland Syndrome,ORG,1
+Alina,GPE,1
+Aliveness,ORG,1
+Alley,ORG,1
+Aloha,GPE,1
+Altima SR TURBO,FAC,1
+Acc’s,ORG,1
+Ace,ORG,1
+AdSense,ORG,1
+Aden,GPE,1
+Adopting Pragmatic Solutions,ORG,1
+Adult,ORG,1
+Advanced Forest Technician,ORG,1
+TWAT,ORG,1
+TWD,ORG,1
+TWELVE,ORG,1
+THREW THE WHOLE THING IN THE,ORG,1
+TIA,ORG,1
+TIGHT,ORG,1
+TLC,ORG,1
+TMI,ORG,1
+TODAYYY,ORG,1
+TORN,ORG,1
+TOUGH,ORG,1
+TRANNY,ORG,1
+TRAZADONE,ORG,1
+TD,ORG,1
+TERRIBLE,ORG,1
+TESD,ORG,1
+TSA,ORG,1
+TSA PreCheck,ORG,1
+Afghani,ORG,1
+Afreakin American,ORG,1
+Airplane,GPE,1
+Alaina,GPE,1
+ATD,ORG,1
+ATL,ORG,1
+ATLA,ORG,1
+AU,ORG,1
+AUDACITY,ORG,1
+TTNB,ORG,1
+TURNED MY LIFE UPSIDE,ORG,1
+TW Injury,ORG,1
+"TW SA/SI
+
+",ORG,1
+TW Suicide,FAC,1
+The Indian Roller,ORG,1
+The Isley Brothers - Footsteps,ORG,1
+The Mirror &,ORG,1
+The Netherlands,GPE,1
+TWITTER,ORG,1
+TWOW,ORG,1
+Table](https://imgur.com,ORG,1
+Taff,ORG,1
+Tali Virgo,ORG,1
+Technical Universities,ORG,1
+TedTalk,ORG,1
+Tenia,GPE,1
+Terros,ORG,1
+TREADMILL,ORG,1
+TRIGGER WARNING// MENTIONS OF,ORG,1
+TRULY,ORG,1
+The Big City,GPE,1
+The Big Meeting Went,ORG,1
+AUS,ORG,1
+AVM,ORG,1
+AVPD,ORG,1
+AYYY,ORG,1
+Ablutophobia,ORG,1
+Academy,ORG,1
+AITA,ORG,1
+ALA,ORG,1
+ALS,ORG,1
+ANGSTY,ORG,1
+The Church of Jason,ORG,1
+The Citizens Advice Bureau,ORG,1
+The Department of Veterans Affairs,ORG,1
+The Foo Fighters,ORG,1
+Tinder,ORG,1
+Tips,ORG,1
+The Royal Tenenbaums,ORG,1
+The Ten Commandments For Business Failure and More Softies,ORG,1
+The University of Michigan,ORG,1
+The West Wing,LOC,1
+The Wild Bunch,LOC,1
+Theme,ORG,1
+"Therapy,Medication,Mindfulness,Hospital",ORG,1
+Theresa,ORG,1
+Thinker,ORG,1
+Thousand Island,LOC,1
+Thrones,GPE,1
+Thrones,ORG,1
+Throwaway Account,ORG,1
+Testosteron,GPE,1
+TiMe,ORG,1
+Tibbs,ORG,1
+Tic-Tac-Toe,FAC,1
+Tiffany,ORG,1
+AP Calculus,ORG,1
+ART,ORG,1
+ASL,ORG,1
+ACTIVELY,ORG,1
+ADHD & insomnia,ORG,1
+ADOS,ORG,1
+AFAB,ORG,1
+Tim Hortons,ORG,1
+Time Magazine’s Person,ORG,1
+Time kinda,ORG,1
+Times,ORG,1
+Times Square NYC,FAC,1
+Truly,GPE,1
+Tsuruno,GPE,1
+Tsushima,GPE,1
+Tues-Sat,ORG,1
+Tupperware,ORG,1
+Titanic,ORG,1
+Tokyo Ghoul,FAC,1
+Tokyo Tower,FAC,1
+Toms Natural Strawberry,ORG,1
+Tone Trump & Drop - Die Alone,ORG,1
+Toshiba,ORG,1
+Tourette,ORG,1
+Toy Australian Shepherd,ORG,1
+Tragedeighs,GPE,1
+Trailer Park Boys,FAC,1
+Thumb,ORG,1
+A+,ORG,1
+U.S,GPE,1
+UAS,ORG,1
+UAW,ORG,1
+UC,GPE,1
+UCLA,ORG,1
+UGH,ORG,1
+UI,ORG,1
+Training,GPE,1
+Trash,ORG,1
+Trazadone,ORG,1
+Trench,ORG,1
+Trichotillomania,GPE,1
+Tried,ORG,1
+Trilogy of Terror,ORG,1
+Trivia,GPE,1
+USSR,GPE,1
+Uber,ORG,1
+TweetDeck,ORG,1
+Twitter & Mu$k,ORG,1
+Twitter-World,ORG,1
+AFAIK Seoul,ORG,1
+AFRICA,LOC,1
+AGREE,ORG,1
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH,GPE,1
+AHM RAHT HARE,ORG,1
+AI Art,FAC,1
+@wildchamomille,ORG,1
+@xsophiejane malese,ORG,1
+@youractionlink,ORG,1
+A Anatomy & Physiology,ORG,1
+A FUCKING COWARD,ORG,1
+Uni,ORG,1
+Uni Jetstream,ORG,1
+United,ORG,1
+United States,GPE,1
+Universal,ORG,1
+Universal Causality,ORG,1
+UNI,ORG,1
+UNLIKELY,ORG,1
+UNWANTED,ORG,1
+UP,ORG,1
+UPenn,ORG,1
+US Revolutionary War,ORG,1
+US State,ORG,1
+USDA,ORG,1
+USMLE,ORG,1
+USPS,ORG,1
+@stbalkcom,ORG,1
+@stml,ORG,1
+@taylorchoi,ORG,1
+VIVID,ORG,1
+VOICES,ORG,1
+VP,ORG,1
+Valeta,ORG,1
+Valium,LOC,1
+Uber/Lyft,ORG,1
+Ubers/Lyfts,ORG,1
+Ugggghhh,ORG,1
+Ukrainian,GPE,1
+Ulta,ORG,1
+Ultimate Cookie,ORG,1
+Un,ORG,1
+Underachiever,GPE,1
+Vet,GPE,1
+Vicodin,ORG,1
+University of Idaho,ORG,1
+Unsolved Mysteries,ORG,1
+A-Levels,ORG,1
+A. Would,ORG,1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,ORG,1
+AAAGJSAHJDGSJSHSJSB,ORG,1
+AAAHH,ORG,1
+ABC,ORG,1
+ABSOLUTELY,ORG,1
+ACCHS,ORG,1
+@seerysm,ORG,1
+@sixers,ORG,1
+@snigdha,ORG,1
+@starrymilkteaa,ORG,1
+Visa,ORG,1
+Viva Cuba,ORG,1
+Vivian,ORG,1
+Vulcans I,ORG,1
+Vyvanse,ORG,1
+WAIT,ORG,1
+WASNT,ORG,1
+Valium,ORG,1
+Valley Girl,LOC,1
+Vanilla,ORG,1
+Vegemite,ORG,1
+Venlafaxine,ORG,1
+Vermont,GPE,1
+Versace's Eros Flame,ORG,1
+Very Good,ORG,1
+Very Rough,ORG,1
+@nicolaisbombay,ORG,1
+@nicolerichie,ORG,1
+@niinabaniina,GPE,1
+@noi27 Easy,GPE,1
+@paulissima,ORG,1
+WILD,ORG,1
+WONT,ORG,1
+WOOOTTTT,ORG,1
+WOWOWOW,ORG,1
+WOWOWOWOWOW,ORG,1
+WR,GPE,1
+Vincent,GPE,1
+Vincent on Wikipedia,ORG,1
+Violently,ORG,1
+"Violet, Ruby",ORG,1
+Virginia,GPE,1
+WEEKS,ORG,1
+WES,ORG,1
+WHAATTT,ORG,1
+WHATTT,ORG,1
+WHEREVER,ORG,1
+@theosoft,ORG,1
+@therealnph,ORG,1
+@thesouthernstar,ORG,1
+@thirdsectorlab Greetings,ORG,1
+@tonimassaar,ORG,1
+@tpgraham,ORG,1
+@turnitgrey oh gosh,ORG,1
+@vfpuk,ORG,1
+@whitneyhess,ORG,1
+@mynameislloyd,ORG,1
+@nellypt,ORG,1
+White,LOC,1
+White Pages,ORG,1
+Whole Foods I’m,ORG,1
+WholesomeHygge,ORG,1
+WV,GPE,1
+WWdeuce,ORG,1
+Waffle House,ORG,1
+Wales,GPE,1
+Wall Street Journal,ORG,1
+Warren County,GPE,1
+Wasaga Beach,GPE,1
+Washington DC,GPE,1
+Waterparks,ORG,1
+Weasley,GPE,1
+Weed G. Board,ORG,1
+WEAR,ORG,1
+Winnie the Pooh,ORG,1
+Winsor,GPE,1
+Winston Churchill,ORG,1
+Wisconsin,GPE,1
+Wizards,ORG,1
+Woke,ORG,1
+Woo,ORG,1
+WeightWatchers,ORG,1
+Weiss,ORG,1
+Wendy,ORG,1
+Wendy's,ORG,1
+Wendy’s,ORG,1
+West,LOC,1
+West Coast,LOC,1
+West End later,GPE,1
+Western Europe,LOC,1
+@katahay,ORG,1
+"@kellyhopper372,Florida",GPE,1
+@kyrstensinema,ORG,1
+@leawoodward,ORG,1
+@lilbluezcluez,ORG,1
+XR,ORG,1
+YEARS &,ORG,1
+YOO,ORG,1
+YOUNGER,ORG,1
+Wholesomeness,ORG,1
+Wii Remote,ORG,1
+Wild Turkey,GPE,1
+Wild Turkey,LOC,1
+Wilmington,GPE,1
+Winco,ORG,1
+Windows 7,LOC,1
+Working,ORG,1
+Wowww,GPE,1
+WrittenTales,ORG,1
+XBOX,ORG,1
+XO,ORG,1
+@petesanderson A,ORG,1
+@pinkfrangipani,GPE,1
+@raesanni,ORG,1
+@rccgd,ORG,1
+@sadegsi,ORG,1
+@sandieb321,GPE,1
+"@saraayk5,,RT",GPE,1
+@sarahstanley,ORG,1
+@seamushayes,ORG,1
+@julieallinson hb,ORG,1
+@julienviet,ORG,1
+"\[2\] https://cdn.discordapp.com/attachments/459213341617946624/1168387232818802750/image.png?ex=65519467&is=653f1f67&hm=5745a15af96110c9ae8807925dc0751cb509ef0e1cafc21a8ce7896fcedd3718&
+
+\[3\] https://www.reddit.com/r/natureismetal/comments/4u2e0y/chinese\_water\_deer/
+
+\[4\] https://media.discordapp.net/attachments/459213341617946624/1168387237570941009/image.png?ex=65519469&is=653f1f69&hm=db7a15536ef24f90239be4dd8d8361cd843c9a82e6283f9595af55a32dbe1e82&=&width=1162&height=1082",ORG,1
+\[like my Oncologist,ORG,1
+\[who,ORG,1
+Yachiyo,GPE,1
+Yang,GPE,1
+Yelena,GPE,1
+"Yellow, Clocks",ORG,1
+Yellowstone,GPE,1
+Yelp,GPE,1
+Yelp,ORG,1
+Yippie,ORG,1
+YouTube Premium,ORG,1
+YouTube Vanced,ORG,1
+Young,ORG,1
+Woooooo,ORG,1
+Wordle,ORG,1
+agarraron de los,ORG,1
+agarro del brazo,ORG,1
+agoraphobia,GPE,1
+ahora estoy,ORG,1
+akala ko talaga ay maayos,FAC,1
+ako,ORG,1
+al pastor tacos,ORG,1
+alabama,GPE,1
+Youthfulness,ORG,1
+Yowane,GPE,1
+Yubikey,ORG,1
+ZERO,GPE,1
+Zach,GPE,1
+Zoloft,GPE,1
+Zoloft & I’m,ORG,1
+Zona,GPE,1
+anhedonia,GPE,1
+anorexia & 7 months,ORG,1
+anosognosia,GPE,1
+anxiety tachycardia,ORG,1
+apparentaly,GPE,1
+apple & burps,ORG,1
+arachnophobia,GPE,1
+argentina,GPE,1
+arkansas,GPE,1
+\^\_\^,GPE,1
+\~180k,GPE,1
+"a ""Big Table",ORG,1
+a Toast Post,ORG,1
+a cuddle party,ORG,1
+abogado sa pamilya,ORG,1
+africa,LOC,1
+@earlydetection,ORG,1
+@ekalavyab,ORG,1
+@gailia,ORG,1
+@gfrdtagon,ORG,1
+bars & clubs & spent,ORG,1
+basiclaly,GPE,1
+basmati,ORG,1
+bee house,ORG,1
+benzos,ORG,1
+bin,ORG,1
+birdcage,GPE,1
+alaska,GPE,1
+algeria,GPE,1
+ambrosia,GPE,1
+amenaza,GPE,1
+an R1 School,ORG,1
+astroturf,GPE,1
+australia,GPE,1
+australian shepherds &,ORG,1
+awww,GPE,1
+b'day Hello,ORG,1
+banana peels,ORG,1
+@lilyroseallen,ORG,1
+@madhoward,ORG,1
+@markgeollli Pls,ORG,1
+@mcherrywv,GPE,1
+@meerajane,GPE,1
+@mikebairos,GPE,1
+@mikeyway,ORG,1
+@mikeyway Cute,ORG,1
+@mousehunt,ORG,1
+@dvroegop,ORG,1
+colorado,GPE,1
+birdsong,GPE,1
+blondie,ORG,1
+bmi,ORG,1
+bookhttpswwwamazoncombodykeepsscorehealingtraumadp0670785938,GPE,1
+boston,GPE,1
+bpd & social anxiety,ORG,1
+brazil,GPE,1
+brill!,ORG,1
+bromazolam,ORG,1
+bulgur,GPE,1
+cada vez,ORG,1
+cadillac,ORG,1
+california,GPE,1
+callin,GPE,1
+asahi,ORG,1
+cruze,ORG,1
+cuarenta,GPE,1
+dEpPrEsSiOn,GPE,1
+cannott,GPE,1
+canyon,ORG,1
+caramel pecan cake,ORG,1
+caterpillar,ORG,1
+charlabamos cada,ORG,1
+charlatan,GPE,1
+charm & charisma,ORG,1
+cheese & crisps,ORG,1
+chico casi,ORG,1
+childhood & adult physical,ORG,1
+cicada,ORG,1
+clean &,ORG,1
+clean of s/h Back,ORG,1
+drinking diet cola,ORG,1
+dubai,GPE,1
+dura,GPE,1
+coma,GPE,1
+comfort,GPE,1
+comment](https://www.reddit.com,ORG,1
+condemn & judge,ORG,1
+congrats & words,ORG,1
+consejos de personas,ORG,1
+constâ,ORG,1
+cont,GPE,1
+contacto,GPE,1
+contra el suelo,ORG,1
+convince convince continue,ORG,1
+corona,GPE,1
+creamcheese,GPE,1
+england,GPE,1
+enteró de que,ORG,1
+ermmmmm,ORG,1
+euthansia,GPE,1
+d\*ck,GPE,1
+dado,GPE,1
+daughter &,ORG,1
+deadpan,GPE,1
+denmark,GPE,1
+denser,GPE,1
+denver,GPE,1
+deodoraâ,ORG,1
+después de unos momentos,ORG,1
+dia,ORG,1
+diet,ORG,1
+down](https://www.washingtonpost.com,ORG,1
+flank,ORG,1
+food & i'm chillin &,ORG,1
+freddie,ORG,1
+free hotX,ORG,1
+fried tofu &,ORG,1
+el,GPE,1
+el alma que,GPE,1
+el amor,ORG,1
+el amor de mi,ORG,1
+el dijo,ORG,1
+el pecho,ORG,1
+el problema de la soledad del ser,ORG,1
+el punto,ORG,1
+el salón,ORG,1
+emergency(there,ORG,1
+encerró en,ORG,1
+gen x & y,ORG,1
+georgia,GPE,1
+giants herd mammoths,ORG,1
+goblin.tools,ORG,1
+goodbye,ORG,1
+goofy,ORG,1
+ex-Jehovah’s Witness,ORG,1
+fashun,ORG,1
+"father|
+|Nani|Mom's",ORG,1
+fbi,ORG,1
+feeling tired & helpless,ORG,1
+fiancé,GPE,1
+financialy,GPE,1
+finland,GPE,1
+first Anatomy & Physiology,ORG,1
+first university college,ORG,1
+guy(PT,ORG,1
+hacia,ORG,1
+hacia los baños,ORG,1
+hai,GPE,1
+hanggang sa pagsikat ng araw,ORG,1
+harvard,ORG,1
+head--,GPE,1
+hello](https://imgur.com/gallery/Wtf62qs,ORG,1
+here.i,ORG,1
+fuck school,ORG,1
+fuckwalmart,ORG,1
+fue medio,ORG,1
+fui,ORG,1
+g'mrng,ORG,1
+gOeS,LOC,1
+gangsta,ORG,1
+hotlineshttpwwwsuicideorginternationalsuicidehotlineshtml international association,ORG,1
+http://twitpic.com/2ydri,GPE,1
+https://music.apple.com/at/playlist/perfect-songs-of-all-genres-according-to-reddit-in/pl.u-47xbCaykJra](https://music.apple.com/at/playlist/perfect-songs-of-all-genres-according-to-reddit-in/pl.u-47xbCaykJra,ORG,1
+https://t.co/1M6PZKhT9v,ORG,1
+https://t.co/Dq3rIUxtbv,GPE,1
+https://t.co/dCBwDeQVH8,ORG,1
+https://t.co/lrHB1FDz6,GPE,1
+https://t.co/tARP6gNDlu,GPE,1
+https://www.dirtsmith.com/2023/10/17/a-silly-birthday-song-for-bram/](https://www.dirtsmith.com/2023/10/17/a-silly-birthday-song-for-bram/,ORG,1
+https://www.reddit.com/r/SuicideWatch/comments/kobvyd/for_the_people_that_read_my_story_about_me_and_my/?utm_source=share&utm_medium=ios_app&utm_name=iossmf,ORG,1
+greece,GPE,1
+grey cargo,ORG,1
+grey hairs,ORG,1
+grindr,GPE,1
+gta6,ORG,1
+guitar center,ORG,1
+@Starrybluesky Hello,ORG,1
+"@Tashuurrx,,RT",ORG,1
+@TaylorLorenz,ORG,1
+@Thehodge,ORG,1
+@Turbizzle Goooooood,ORG,1
+@USMC,ORG,1
+iPhones,ORG,1
+iPhoto,ORG,1
+ifi,ORG,1
+indiana,GPE,1
+insane](https://www.biglawinvestor.com,ORG,1
+here](https://i.imgur.com,ORG,1
+hijo de puta,ORG,1
+hocd,GPE,1
+home & feel,ORG,1
+hotel & shuttle,ORG,1
+jordan,GPE,1
+https://www.reddit.com/r/bookshelfporn/comments/edq2cs/just_finished_building_our_built_in_bookshelves/?utm_source=share&utm_medium=ios_app&utm_name=iossmf,GPE,1
+humboldt county,GPE,1
+hyundai,ORG,1
+"i""s",GPE,1
+i. am,ORG,1
+@hellomonette,ORG,1
+@holyschmoke,ORG,1
+@intelligensia,GPE,1
+@janniesTWbox,ORG,1
+@jaredleto,ORG,1
+@joelmadden,GPE,1
+@joemcintyre WELCOME,ORG,1
+@jordandossett,ORG,1
+@joyreaper @WolfensPride,ORG,1
+@SUMMERWALKER,ORG,1
+knorr,ORG,1
+krona,ORG,1
+la,GPE,1
+intro,FAC,1
+iossmf&context=3,ORG,1
+iraq,GPE,1
+irs,ORG,1
+isn’t,ORG,1
+israel,GPE,1
+itÃ¯Â¿Â½s,GPE,1
+i’m,GPE,1
+jackwagon,ORG,1
+jargon,ORG,1
+job kinda shitty,ORG,1
+jobless virgin,GPE,1
+johns,ORG,1
+maen2,ORG,1
+mag,ORG,1
+man+woman,GPE,1
+manila,GPE,1
+maraijana,GPE,1
+masala,GPE,1
+kadahilanang mahal,ORG,1
+karos means,ORG,1
+kgs(22lbs,ORG,1
+kinda,ORG,1
+king kong,GPE,1
+kittens](https://imgur.com,ORG,1
+klg,ORG,1
+km$,FAC,1
+km/h & be,ORG,1
+kmaren,ORG,1
+me.we,ORG,1
+medicaid,ORG,1
+mei,ORG,1
+meltdowns,ORG,1
+meme/ironic thing,ORG,1
+meth coke,ORG,1
+meth felt,ORG,1
+meth since,ORG,1
+la hora de salida,FAC,1
+lamp](https://www.walmart.com,ORG,1
+legitmentaly,GPE,1
+lgbt,GPE,1
+lockdown(I,GPE,1
+lyrica,GPE,1
+maasdam,GPE,1
+madeâ,ORG,1
+"mother|
+
+&",ORG,1
+mozzarella,LOC,1
+myself-,GPE,1
+nada,GPE,1
+nada,ORG,1
+nada de la vida de ella,ORG,1
+nada pero,ORG,1
+name*|*Relationship*|,GPE,1
+nannas,GPE,1
+nasa,ORG,1
+masasamang mga,ORG,1
+mayo,ORG,1
+mazda,ORG,1
+mcdonalds,ORG,1
+md,GPE,1
+mdma,ORG,1
+@LFTA,ORG,1
+@LaraRhiannon,ORG,1
+@LaurenFisher,GPE,1
+newcastle,GPE,1
+nilalabanan ang mga,FAC,1
+nishinoya,ORG,1
+nodedragon,ORG,1
+normaly,GPE,1
+nsb,ORG,1
+nunca lo bese el,ORG,1
+mexico,GPE,1
+me….ibut,GPE,1
+mfs,ORG,1
+mga mahal ko sa buhay,FAC,1
+mlbb,GPE,1
+monkee,ORG,1
+national center ptsd usa department,ORG,1
+netherlands,GPE,1
+new county,GPE,1
+new zealand,GPE,1
+@annaarco,ORG,1
+@avalanchelynn,ORG,1
+@btchtits,ORG,1
+@calamus,ORG,1
+@callumfloyd Welcome,ORG,1
+@cydneyw http://twitpic.com/2nvz6 - We,ORG,1
+@dancingbonita,ORG,1
+@daveixd Insulting,ORG,1
+@Ingermaaike,ORG,1
+@JacksonWang852,ORG,1
+@JamFactory,ORG,1
+@Joshmadden - OMG,ORG,1
+rhe,ORG,1
+rhe cops,ORG,1
+rome,GPE,1
+ohio,GPE,1
+otro,ORG,1
+pacific,LOC,1
+pagan,GPE,1
+pera,ORG,1
+pero,ORG,1
+phone againn,ORG,1
+pica,GPE,1
+pictures](https://imgur.com/gallery/T3lwfdT,ORG,1
+pills & have,ORG,1
+"poemas cortos
+
+&",ORG,1
+poin https://t.co/oi7X3ZTLGy,ORG,1
+nasal blockagepanic,ORG,1
+sebas,ORG,1
+seco las lágrimas,ORG,1
+sentaba,GPE,1
+poland,GPE,1
+popupâ,ORG,1
+poquísimas,ORG,1
+pregabalin,GPE,1
+profesora el esta mintiendo,ORG,1
+puso,ORG,1
+qué habia pasado,FAC,1
+rain.mord,ORG,1
+raunch,ORG,1
+realy,GPE,1
+recently($80,ORG,1
+ref,ORG,1
+rent & bills & I,ORG,1
+south korea,GPE,1
+soy el callado del salón,ORG,1
+switzerland,GPE,1
+syria,GPE,1
+ryt,ORG,1
+s,ORG,1
+s.s.,GPE,1
+s/h,ORG,1
+sa pagiinom ng,ORG,1
+san,GPE,1
+san,LOC,1
+sarili kong kabaong,ORG,1
+schizophrenia &,ORG,1
+school &,ORG,1
+school & iâ,ORG,1
+sci department,ORG,1
+"the ""Mod Approved",ORG,1
+"the ""Red Dress Dash",ORG,1
+the >99th,LOC,1
+the Academy of Sciences,ORG,1
+the Asia Regional,ORG,1
+the Bank of America,ORG,1
+sexualy,GPE,1
+sia,GPE,1
+sichuan mapo tofu,ORG,1
+slaty,ORG,1
+small](https://imgur.com/gallery/JB1IVU0,ORG,1
+smart & healthy,ORG,1
+sobered”me,ORG,1
+sony,ORG,1
+south America,LOC,1
+south america,LOC,1
+the Canadian Red Cross,ORG,1
+the Centenary Celebrations of Patna University,ORG,1
+the Chaos Quilt,FAC,1
+the Cleveland Show,FAC,1
+the Commonwealth Institute of Funeral Services,ORG,1
+the Crisis Team,ORG,1
+the Dean’s List,ORG,1
+the Deep South,LOC,1
+the Department of Health,ORG,1
+sâ,GPE,1
+tachycardia,GPE,1
+taco,ORG,1
+taon,GPE,1
+tengan,GPE,1
+tenia celos de que,FAC,1
+"the ""Fall Time Feelings",ORG,1
+the Federal District and Circuit,ORG,1
+the Great Clips,FAC,1
+the Green Wing,FAC,1
+the Holding Company,ORG,1
+the Holy week,LOC,1
+the Hot Fuzz,ORG,1
+the Human Centipede I,ORG,1
+the Humane Society,ORG,1
+the Itchy Stage,FAC,1
+the Jersey,GPE,1
+the Bay City,LOC,1
+the Black Parade,LOC,1
+the Blair Witch,ORG,1
+the Bleu d'Auvergne,FAC,1
+the California Academy of Sciences,ORG,1
+the Call of Duty Modern Warfare,ORG,1
+the Middle East,LOC,1
+the Music Teachers National Association,ORG,1
+the N-Dubz,ORG,1
+the NYSE Ger,ORG,1
+the National Anthem,ORG,1
+the National Aviary,ORG,1
+the National Counselor Exam,ORG,1
+the National Suicide Prevention,ORG,1
+the Netherlands :D,ORG,1
+the New York Times,ORG,1
+the North Pole,LOC,1
+the ER ISOLATE AND SOCIAL DISTANCE,ORG,1
+the East Coast,LOC,1
+the East of the United States,LOC,1
+the Easter Bunny,FAC,1
+the FAIL WHALE,ORG,1
+:P,FAC,1
+</3,ORG,1
+@889grapevine,ORG,1
+@AmandaFPatton,GPE,1
+@Bhavika,ORG,1
+the Presidential Medal of Freedom,ORG,1
+the Red Sea,LOC,1
+the Red Square,FAC,1
+the Rubins - Huge - Sainsburys,ORG,1
+the Scioto River,LOC,1
+the Seattle Seahawks,FAC,1
+the Sky Bar,FAC,1
+the Sonoran Desert,LOC,1
+the Latino/Hispanic,ORG,1
+the Lock Screen,ORG,1
+the Mexican Government,ORG,1
+the PP & Price,ORG,1
+the Palais Garnier,ORG,1
+the Pepe Le Pew,FAC,1
+the Philadelphia Flower Show,ORG,1
+the Point of Life,ORG,1
+@LessIsMoh,ORG,1
+"@Logman765,Lincoln",ORG,1
+@MSNBC,ORG,1
+@Maotai,GPE,1
+"@MoeruItami,[#XB2RP  | #",ORG,1
+@MrBez1,ORG,1
+@NASA,ORG,1
+@REGYATES Nice,ORG,1
+@RedMummy,ORG,1
+:'),ORG,1
+:O,ORG,1
+the west coast,GPE,1
+the Southern USA,ORG,1
+the Southwest US,LOC,1
+the St Clares,ORG,1
+the Supreme Court,ORG,1
+the The Hitchhiker's Guide,ORG,1
+the Train Station,ORG,1
+the US Election,ORG,1
+the USA - Candy,ORG,1
+the USA - Water,ORG,1
+the United States Supreme Court,ORG,1
+the Universal Government of the New Humanity,ORG,1
+the University at,ORG,1
+the University of Cambridge,ORG,1
+the Olive Garden,FAC,1
+the Olive Garden,LOC,1
+trans,ORG,1
+trichotillomania,GPE,1
+trine moon,ORG,1
+the University of San Diego School of Law,ORG,1
+the Upper Peninsula,LOC,1
+the Water and Wild Thing,ORG,1
+the bay area,LOC,1
+the fuckin hospital,ORG,1
+the golden gate bridge,FAC,1
+the middle east,LOC,1
+the national bank holidays,ORG,1
+the next buff,ORG,1
+the shitty us welfare,ORG,1
+the ski hill,ORG,1
+the trauma & survive,ORG,1
+the tv & I'm,ORG,1
+understand(it,ORG,1
+unhygienic,ORG,1
+urgent care & er,ORG,1
+us!](http://imgur.com,ORG,1
+the west coast,LOC,1
+the white claws,ORG,1
+the “Touch Grass and Go Live Life,ORG,1
+thenâ¦ https://t.co/2GGc72XP5a,ORG,1
+therapy(which,GPE,1
+thighs,GPE,1
+this.i,ORG,1
+thread](https://www.reddit.com,ORG,1
+thyroid & hormone levels,ORG,1
+tissue(as,ORG,1
+tokyo,GPE,1
+tortillas,ORG,1
+warsaw,GPE,1
+watsonville california,FAC,1
+ways….and,GPE,1
+wayyy old,ORG,1
+web2x&context=3,ORG,1
+weekends,GPE,1
+west coast,LOC,1
+western europe,LOC,1
+trine moon natal chart,ORG,1
+tumatakbo sa,ORG,1
+twitterville,GPE,1
+tío de ella le había,ORG,1
+u/Ctrl_Shift_ZZ,ORG,1
+uBlock Origin,ORG,1
+un monton de groserías,ORG,1
+un-charismatic,ORG,1
+"xjoedux9,9v2,hb3,k",ORG,1
+xoxoxo,GPE,1
+xqc,ORG,1
+ya later,ORG,1
+ya que,GPE,1
+yaa,ORG,1
+yada yada yada,GPE,1
+yahoo,ORG,1
+useless.wait,GPE,1
+utah,GPE,1
+va,GPE,1
+va del país,ORG,1
+veterans court,ORG,1
+video](https://www.youtube.com,ORG,1
+w o r k,ORG,1
+wala sa oras,ORG,1
+12:00AM Whelp,ORG,1
+1st Girlfriend Before Her Plane Ride Home,ORG,1
+~29.9,GPE,1
+~~May~~,GPE,1
+~~dont,GPE,1
+"ð¬ð¹,i",GPE,1
+ð.,ORG,1
+ð¤£,ORG,1
+ómnibus,ORG,1
+Сколько,GPE,1
+’m,ORG,1
+wet & I,ORG,1
+wil,ORG,1
+willâ¦ https://t.co/0oWffNaMQb,ORG,1
+worthless & somwone,ORG,1
+www.tv.com,ORG,1
+よふない,ORG,1
+01/13/2023,FAC,1
+😔😞,ORG,1
+😸,GPE,1
+🙁,GPE,1
+🙁💔,ORG,1
+🙁🙁🙁,ORG,1
+🍔,GPE,1
+🎉🤝,GPE,1
+🎶,ORG,1
+🏡,GPE,1
+💔💔💔,ORG,1
+💼,ORG,1
+-whoâs,ORG,1
+yayyyy,ORG,1
+"youtube, & taking",ORG,1
+Daylight Savings Time,ORG,1
+Dcf,GPE,1
+Dear America,ORG,1
+Dear Mexican FireFighters,ORG,1
+🙁🙁🙁🙁,ORG,1
+🙂,ORG,1
+🤗,ORG,1
+🤗🤗,ORG,1
+🤯,ORG,1
+🧸,ORG,1
+01/12/2023,ORG,1
+"• Clothing
+You",ORG,1
+•I'm,ORG,1
+☁,ORG,1
+⛄,GPE,1
+✌🏽,ORG,1

@@ -1,0 +1,23 @@
+{
+  "rows_total": 16291,
+  "class_distribution": {
+    "non_suicidal": 8971,
+    "suicidal": 7320
+  },
+  "paths": {
+    "unified": "output\\unified_supervised.csv",
+    "train": "output\\train.csv",
+    "val": "output\\val.csv",
+    "test": "output\\test.csv"
+  },
+  "params": {
+    "reddit": "dataset/Suicidal Ideation Detection Reddit Dataset-Version 2.csv",
+    "twitter": "dataset/Suicide_Ideation_Dataset(Twitter-based).csv",
+    "merge_title_post": true,
+    "min_len": 5,
+    "max_len": 2000,
+    "test_ratio": 0.1,
+    "val_ratio": 0.1,
+    "seed": 42
+  }
+}
