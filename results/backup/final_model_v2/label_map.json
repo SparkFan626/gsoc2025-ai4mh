@@ -1,0 +1,10 @@
+{
+  "label2id": {
+    "non_suicidal": 0,
+    "suicidal": 1
+  },
+  "id2label": {
+    "0": "non_suicidal",
+    "1": "suicidal"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "n_samples": 215139,
+  "threshold": 0.5,
+  "precision": 0.777455296750867,
+  "recall": 0.9394951156201082,
+  "f1": 0.8508288284246652,
+  "roc_auc": 0.9365910659837061,
+  "pr_auc": 0.916598444999996,
+  "confusion_matrix_labels": [
+    "non-suicide",
+    "suicide"
+  ],
+  "confusion_matrix": [
+    [
+      87061,
+      27144
+    ],
+    [
+      6107,
+      94827
+    ]
+  ],
+  "model_dir": "results/final_model_v3",
+  "csv": "dataset/kaggle_clean.csv",
+  "kept_after_dropna_text": 215139,
+  "kept_after_label_normalize": 215139,
+  "model_num_labels": 2,
+  "device": "cuda"
+}

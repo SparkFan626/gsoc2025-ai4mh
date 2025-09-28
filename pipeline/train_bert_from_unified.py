@@ -51,7 +51,6 @@ class WeightedTrainer(Trainer):
         super().__init__(*args, **kwargs)
         self.class_weights = class_weights
 
-    # 这里加上 num_items_in_batch=None，并保留 return_outputs
     def compute_loss(self, model, inputs, return_outputs=False, num_items_in_batch=None):
         labels = inputs.get("labels")
         outputs = model(**inputs)
@@ -65,7 +64,6 @@ class WeightedTrainer(Trainer):
 
 def main():
     ap = argparse.ArgumentParser()
-    # ===== 新增：实验名，用于不覆盖旧模型 =====
     ap.add_argument("--exp_name", default="final_model", help="model will be saved to results/<exp_name>/")
     # ==========================================
     ap.add_argument("--train_csv", default="output/train.csv")
@@ -106,7 +104,6 @@ def main():
 
     out_dir = Path("results")
     out_dir.mkdir(exist_ok=True)
-    # ===== 新：按实验名保存，不覆盖旧模型 =====
     final_dir = out_dir / args.exp_name
     # ========================================
 

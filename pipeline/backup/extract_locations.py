@@ -2,7 +2,7 @@
 import os, time, argparse, pandas as pd
 from tqdm import tqdm
 
-KEEP_LABELS = {"GPE","LOC","FAC","ORG"}  # 国家/城市/州、地点、设施、机构
+KEEP_LABELS = {"GPE","LOC","FAC","ORG"} 
 
 def load_spacy():
     import spacy
@@ -30,11 +30,9 @@ def geocode_safe(geocoder, name: str, sleep_sec: float = 1.1):
     return None, None
 
 def pick_text_column(df: pd.DataFrame):
-    # 优先 text，其次常见列名
     for c in ["text","Post","Tweet","body","content"]:
         if c in df.columns:
             return c
-    # 兜底：选第一个字符串列
     for c in df.columns:
         if pd.api.types.is_string_dtype(df[c]):
             return c
@@ -46,7 +44,7 @@ def main():
     ap.add_argument("--hits_csv",  default="output/locations_candidates.csv")
     ap.add_argument("--counts_csv",default="output/location_counts.csv")
     ap.add_argument("--use_geocoder", action="store_true")
-    ap.add_argument("--email", default="you@example.com")  # Nominatim 要求
+    ap.add_argument("--email", default="you@example.com")  
     ap.add_argument("--sleep", type=float, default=1.1, help="geocoder rate limit seconds")
     args = ap.parse_args()
 
